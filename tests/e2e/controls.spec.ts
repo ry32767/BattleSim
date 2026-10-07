@@ -22,13 +22,17 @@ test('戦闘は画面内に収まり、スマホでも盤面と行動設定を�
 });
 test('レーダーは開始前に動かず実行tickと同期し、リプレイの停止・シークにも同期する',async({page})=>{
   await page.clock.install();await start(page);await page.clock.runFor(100);
-  const radar=page.locator('.radar-panel canvas'),board=page.locator('.map-panel canvas');
+  const radar=page.locator('.radar-panel canvas');
   const before=await radar.getAttribute('data-contact-positions');await page.clock.runFor(1000);
   expect(await radar.getAttribute('data-contact-positions')).toBe(before);
   await page.getByRole('button',{name:'行動を確定して同時実行',exact:false}).click();await page.clock.runFor(25);
   await expect(page.locator('.save-state')).toContainText('実行記録を再生中',{timeout:30000});await page.clock.runFor(3000);
   await expect(page.getByRole('button',{name:'前ターンのリプレイ',exact:true})).toBeDisabled();
-  await expect(radar).toHaveAttribute('data-view-tick',await board.getAttribute('data-view-tick') ?? '');
+  // Read both canvases in one browser task so the playback cannot advance between reads.
+  expect(await page.evaluate(() => {
+    const boardTick = document.querySelector('.map-panel canvas')?.getAttribute('data-view-tick');
+    return !!boardTick && document.querySelector('.radar-panel canvas')?.getAttribute('data-view-tick') === boardTick;
+  })).toBe(true);
   expect(await radar.getAttribute('data-contact-positions')).not.toBe(before);
   await page.clock.runFor(12500);await expect(page.locator('.phase-label')).toHaveText('PLANNING');
   await page.getByRole('button',{name:'前ターンのリプレイ',exact:true}).click();
