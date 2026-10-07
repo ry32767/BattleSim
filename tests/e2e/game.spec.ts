@@ -1,5 +1,5 @@
 import { test, expect, type Page } from '@playwright/test';
-import { writeFile } from 'node:fs/promises';
+import { mkdir, writeFile } from 'node:fs/promises';
 async function start(page: Page, stage: 'I'|'II'|'III' = 'I') {
   await page.goto('/');
   await page.locator('.stage-selector button').filter({ has: page.locator('.stage-roman', { hasText: new RegExp(`^${stage}$`) }) }).click();
@@ -182,6 +182,7 @@ for(const width of [1366,1920]) test(`最大48体の実行描画性能 ${width}p
   await page.waitForTimeout(3000);
   const frames=Number(await canvas.getAttribute('data-rendered-frames'))-before, durationMs=Date.now()-begin, fps=frames*1000/durationMs;
   const environment=await page.evaluate(()=>({browser:navigator.userAgent,logicalCpus:navigator.hardwareConcurrency,viewport:{width:innerWidth,height:innerHeight}}));
+  await mkdir('output',{recursive:true});
   await writeFile(`output/render-performance-${width}.json`,JSON.stringify({environment,bodies:48,frames,durationMs,fps,goalFps:30,passed:fps>=30},null,2));
   expect(fps).toBeGreaterThanOrEqual(30);
 });
