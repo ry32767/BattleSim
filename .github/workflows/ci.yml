@@ -33,9 +33,22 @@ jobs:
       - run: npm run test:engine
       - run: npm run test:server
       - run: npm run build
-      - run: npm run test:e2e
+      - name: Run functional E2E tests
+        run: npx playwright test --grep-invert 'visual|最大48体'
       - run: npm run test:visual
         if: success() || failure()
+      # Shared runners are not the reference machine for the 30fps target.
+      - name: Measure rendering performance
+        run: npx playwright test --grep '最大48体'
+        if: success() || failure()
+        continue-on-error: true
+      - name: Save rendering measurements
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        if: success() || failure()
+        with:
+          name: rendering-performance
+          path: output/render-performance-*.json
+          retention-days: 7
       - uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
         if: failure()
         with:

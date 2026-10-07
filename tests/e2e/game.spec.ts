@@ -139,10 +139,11 @@ test('4対4の招待ルームで両陣営の担当変更とプラン引き継ぎ
 });
 test('visual 広幅・狭幅の戦闘盤面の基準画面', async ({ page }) => {
   await start(page, 'III');
-  await expect(page.locator('.battle-screen')).toHaveScreenshot('battle-wide.png', { animations: 'disabled', mask: [page.locator('.timer')] });
+  // Windows client/server font edges differ by up to 121 pixels; retain the same baseline.
+  await expect(page.locator('.battle-screen')).toHaveScreenshot('battle-wide.png', { animations: 'disabled', mask: [page.locator('.timer')], maxDiffPixels: 150 });
   await page.setViewportSize({ width: 375, height: 900 });
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
-  await expect(page.locator('.battle-screen')).toHaveScreenshot('battle-narrow.png', { animations: 'disabled', mask: [page.locator('.timer')] });
+  await expect(page.locator('.battle-screen')).toHaveScreenshot('battle-narrow.png', { animations: 'disabled', mask: [page.locator('.timer')], maxDiffPixels: 150 });
   await page.screenshot({ path: 'output/game-narrow.png', fullPage: true });
   await page.setViewportSize({ width: 1366, height: 900 }); await page.screenshot({ path: 'output/game-wide.png', fullPage: true });
 });
@@ -156,11 +157,11 @@ test('visual 独立リプレイと背景プランの保持', async ({ page }) =>
   await page.getByRole('button',{name:'前ターンのリプレイ',exact:true}).click();
   await page.getByLabel('注目するユニット').selectOption({index:1});
   await expect(page.locator('.route-comparison')).toContainText('予定');
-  await expect(page.getByRole('dialog')).toHaveScreenshot('replay-wide.png',{animations:'disabled',mask:[page.locator('.timer')]});
+  await expect(page.getByRole('dialog')).toHaveScreenshot('replay-wide.png',{animations:'disabled',mask:[page.locator('.timer')],maxDiffPixels:150});
   await page.screenshot({path:'output/replay-wide.png',fullPage:true});
   await page.setViewportSize({width:375,height:900});
   expect(await page.locator('.replay-board .battle-canvas').evaluate(el=>el.clientHeight)).toBeGreaterThanOrEqual(200);
-  await expect(page.getByRole('dialog')).toHaveScreenshot('replay-narrow.png',{animations:'disabled',mask:[page.locator('.timer')]});
+  await expect(page.getByRole('dialog')).toHaveScreenshot('replay-narrow.png',{animations:'disabled',mask:[page.locator('.timer')],maxDiffPixels:150});
   await page.getByRole('button',{name:'閉じて設定へ戻る',exact:false}).click();
   await expect(page.locator('.command-strip .command')).toHaveCount(commandCount);
 });
