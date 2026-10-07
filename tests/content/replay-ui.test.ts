@@ -10,6 +10,7 @@ describe('battle display boundaries',()=>{
       vi.stubEnv('VITE_USE_OFFICIAL_ICONS',undefined);expect(displayIconUrl('char_27')).toBeUndefined();
       vi.stubEnv('VITE_USE_OFFICIAL_ICONS','false');expect(displayIconUrl('char_27')).toBeUndefined();
       vi.stubEnv('VITE_USE_OFFICIAL_ICONS','true');expect(displayIconUrl('char_27')).toBe(officialIconUrl('char_27'));
+      vi.stubEnv('MODE','pages');expect(displayIconUrl('char_27')).toBeUndefined();
     } finally { vi.unstubAllEnvs(); }
   });
   it('steps across action ticks once per simultaneous group and skips empty animation/random frames',()=>{
