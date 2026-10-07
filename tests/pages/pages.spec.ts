@@ -22,6 +22,21 @@ for (const stage of ['I', 'II', 'III']) test(`Pagesの段階${stage}をサーバ
   await expect(page.locator('.official-icon')).toHaveCount(0);
   await expect(page.getByRole('alert')).toHaveCount(0);
   expect(await page.locator('.battle-canvas canvas').first().getAttribute('data-rendered-frames')).not.toBeNull();
+  if (stage === 'II') {
+    await page.getByRole('button', { name: '行動設定・レーダー', exact: true }).click();
+    for (let i = 0; i < 3; i++) await page.getByRole('button', { name: '待機を追加', exact: true }).click();
+    await expect(page.locator('.control-panel .flow-node')).toHaveCount(4);
+    await page.getByRole('button', { name: '最小化して盤面へ', exact: false }).click();
+    const canvas = page.locator('.map-panel canvas'), before = (await canvas.boundingBox())!.height;
+    await page.getByRole('button', { name: '盤面を広く表示', exact: true }).click();
+    await expect.poll(async () => (await canvas.boundingBox())!.height).toBeGreaterThan(before + 60);
+    await page.getByRole('button', { name: '行動一覧', exact: true }).click();
+    const flow = page.getByRole('dialog', { name: '登録済み行動', exact: true });
+    await expect(flow).toContainText('3件登録');
+    await flow.getByRole('button', { name: /^2 待機/ }).click();
+    await expect(page.locator('.control-panel .command[aria-current="step"]')).toContainText('2');
+    await expect(page.locator('.control-panel')).toBeVisible();
+  }
   expect(errors).toEqual([]);
 });
 

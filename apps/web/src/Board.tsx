@@ -10,6 +10,7 @@ import { boardBasis, boardDepth, boardDirection, boardWorldDepth, containsBoardH
 
 type Camera = { x: number; y: number; zoom: number };
 type Props = {
+  expanded?: boolean; onExpand?: () => void; onActionFlow?: () => void;
   view: PublicState; selected: string | null; plans?: TurnPlan[]; flat?: boolean;
   sectors?: boolean; allSectors?: boolean; radarControls?: boolean; vision?: boolean; paths?: boolean; radar?: boolean; autoNumbers?: boolean;
   events?: BattleEvent[]; focus?: { cellId: string; serial: number } | null;
@@ -47,7 +48,7 @@ function combatPawn(ctx:CanvasRenderingContext2D,x:number,y:number,options:PawnO
   ctx.fillStyle=p.white;ctx.globalAlpha=.92;ctx.beginPath();ctx.arc(x,badgeY-13/zoom,18/zoom,0,Math.PI*2);ctx.fill();ctx.globalAlpha=1;
   drawPawn(ctx,x,badgeY,{...options,scale:1/zoom});
 }
-export function Board({ view, selected, plans = [], flat = false, sectors = true, allSectors = false, radarControls = false, vision = false, paths = true, radar = false, autoNumbers = true, events = EMPTY_EVENTS, focus, equipment, surfacePicking, animate = false, playbackSpeed = 1, reducedMotion=false, monochrome=false, actualPath=[], plannedOrigin, onSelect, onSurface, onDirection, onDirectionCommit, onContextMenu, onDoubleClick }: Props) {
+export function Board({ expanded = false, onExpand, onActionFlow, view, selected, plans = [], flat = false, sectors = true, allSectors = false, radarControls = false, vision = false, paths = true, radar = false, autoNumbers = true, events = EMPTY_EVENTS, focus, equipment, surfacePicking, animate = false, playbackSpeed = 1, reducedMotion=false, monochrome=false, actualPath=[], plannedOrigin, onSelect, onSurface, onDirection, onDirectionCommit, onContextMenu, onDoubleClick }: Props) {
   const canvas = useRef<HTMLCanvasElement>(null), host = useRef<HTMLDivElement>(null);
   const [dimensions, setDimensions] = useState({ width: 800, height: 560 });
   const [camera, setCamera] = useState<Camera>({ x: 0, y: 0, zoom: 1 });
@@ -444,6 +445,8 @@ export function Board({ view, selected, plans = [], flat = false, sectors = true
       <button style={{ minHeight: 44 }} onClick={() => setCamera(c => ({ ...c, zoom: Math.min(4, c.zoom * 1.2) }))} aria-label="拡大">＋</button>
       <button style={{ minHeight: 44 }} onClick={() => setCamera(c => ({ ...c, zoom: Math.max(.01, c.zoom / 1.2) }))} aria-label="縮小">−</button>
       <button style={{ minHeight: 44 }} onClick={fit}>全体表示</button>
+      {onExpand && <button aria-pressed={expanded} onClick={onExpand}>{expanded ? '表示を戻す' : '盤面を広く表示'}</button>}
+      {onActionFlow && <button onClick={onActionFlow}>行動一覧</button>}
       {!isFlat && <><button style={{ minWidth: 44, minHeight: 44 }} onClick={() => setYaw(y => normalizeDirection(y - 30))} aria-label="左へ回転">↶</button>
         <button style={{ minWidth: 44, minHeight: 44 }} onClick={() => setYaw(y => normalizeDirection(y + 30))} aria-label="右へ回転">↷</button>
         <button style={{ minWidth: 44, minHeight: 44 }} onClick={() => setYaw(0)} aria-label="回転をリセット">北へ</button></>}

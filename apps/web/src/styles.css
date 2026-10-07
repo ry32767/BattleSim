@@ -289,3 +289,43 @@ dialog::backdrop { background: var(--navy); opacity: .85; }
 .character-wheel footer>b, .character-wheel footer span>b { color: var(--cyan); }
 .character-wheel footer span>b:last-of-type { color: var(--unit-b); }
 .character-wheel footer small { color: var(--line); font-size: 11px; }
+
+/* Give the map all available space; its focus mode keeps the turn controls reachable. */
+.app-shell.in-battle { max-width: none; width: 100%; padding: 4px; }
+.in-battle .battle-layout { grid-template-columns: minmax(0, 1fr) 320px; }
+.in-battle.board-expanded .app-header,
+.in-battle.board-expanded .control-panel,
+.in-battle.board-expanded .map-toolbar,
+.in-battle.board-expanded .map-legend,
+.in-battle.board-expanded .mobile-pane-tabs { display: none; }
+.in-battle.board-expanded .battle-layout { grid-template-columns: 1fr; }
+.in-battle.board-expanded .map-panel { border: 0; }
+
+/* Every registered command remains in sequence, including commands outside the viewport. */
+.action-flow { margin: 6px 0; }
+.flow-heading { gap: 4px; margin-bottom: 4px; }
+.flow-heading strong { font-size: 12px; }
+.flow-heading strong small { margin-left: 8px; color: var(--muted); font-weight: 400; white-space: nowrap; }
+.flow-heading button { padding: 4px 8px; font-size: 11px; }
+.action-flow .command-strip { list-style: none; margin: 0; padding: 4px 2px 8px; gap: 22px; min-height: 108px; overflow-x: auto; overflow-y: hidden; }
+.flow-node { position: relative; flex: 0 0 154px; display: flex; }
+.flow-node:not(:last-child)::after { content: '→'; position: absolute; right: -20px; top: 40px; width: 18px; color: var(--blue); font-size: 20px; text-align: center; }
+.action-flow .command { flex: 1; min-width: 0; width: 100%; min-height: 100px; padding: 8px; text-align: left; border-top: 3px solid var(--muted); border-radius: var(--radius); }
+.action-flow .command strong { display: block; font-size: 14px; }
+.action-flow .command small { display: block; font-size: 11px; line-height: 1.6; white-space: normal; overflow-wrap: anywhere; }
+.action-flow .kind-move .command { border-top-color: var(--blue); }
+.action-flow .kind-wait .command, .action-flow .kind-hold .command { border-top-color: var(--amber); }
+.action-flow .kind-full_guard .command, .action-flow .kind-all_round .command, .action-flow .kind-guard .command { border-top-color: var(--cyan); }
+.action-flow .command.active { outline: 2px solid var(--cyan); outline-offset: -2px; }
+.flow-number { display: inline-flex; width: 20px; height: 20px; align-items: center; justify-content: center; background: var(--navy); color: var(--white); border-radius: 50%; font-size: 11px; }
+.flow-note { margin: 4px 0; font-size: 11px; color: var(--muted); line-height: 1.5; }
+.control-panel .action-flow .command-strip { padding: 4px 2px 8px; min-height: 108px; gap: 22px; overflow-x: auto; overflow-y: hidden; }
+.control-panel .action-flow .command { padding: 8px; }
+.action-flow.expanded .command-strip { flex-wrap: wrap; max-height: 60dvh; overflow-y: auto; gap: 22px; }
+.action-flow.expanded .flow-node { flex-basis: 170px; }
+@media(max-width:760px) {
+  .in-battle .battle-layout { grid-template-columns: 1fr; }
+  .action-flow.expanded .flow-node { flex-basis: 100%; min-width: 0; }
+  .action-flow.expanded .flow-node:not(:last-child)::after { content: '↓'; top: auto; bottom: -24px; right: calc(50% - 9px); }
+  .action-flow.expanded .command { min-height: 84px; }
+}
