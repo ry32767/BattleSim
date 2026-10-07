@@ -4,6 +4,10 @@
 
 公開リポジトリ: [ry32767/BattleSim](https://github.com/ry32767/BattleSim)。開発・変更の管理は [CONTRIBUTING.md](CONTRIBUTING.md) を参照してください。
 
+ブラウザで遊ぶ: [GitHub Pages版](https://ry32767.github.io/BattleSim/)。通常演習I〜III、6ターン戦闘、リプレイの保存・読み込みを利用できます。招待対戦は権威サーバーを起動した環境で利用します。
+
+Pages版は `npm run build:pages` で生成し、`npm run test:pages` で `/BattleSim/` 配下の画面と両Workerを確認します。mainのCI合格後、GitHub Actionsがdistだけを自動公開します。
+
 通常演習I・II・IIIの部隊編成、行動設定、同時戦闘、招待ルーム、結果とリプレイを備えるWeb実装です。設定150秒、実行15秒、全6ターン。陣営ごとに9・14・24体を扱います。
 
 実行規則はR1.3、地形判定はG1/D1.1。64名・41装備・55効果の補完パックを使用し、既定のC2は住宅・モールのプロジェクト破壊目標を校正済みです。元のC1/B1も保存しています。確認済み能力と独自補完、スキル所有者の確認状況は分けて保存しています。原作内部式や全座標の完全復元を宣言するものではありません。検証の現在地は [実装状況](docs/implementation-status.md) を参照してください。

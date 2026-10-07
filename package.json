@@ -20,8 +20,10 @@
     "test:server": "vitest run tests/server",
     "test:e2e": "playwright test --grep-invert visual",
     "test:visual": "playwright test --grep visual",
+    "test:pages": "playwright test --config playwright.pages.config.ts",
     "test": "vitest run",
     "build": "tsc --noEmit && vite build && esbuild apps/server/src/main.ts --bundle --platform=node --format=esm --external:ws --outfile=dist-server/main.mjs",
+    "build:pages": "tsc --noEmit && vite build --mode pages",
     "start": "node dist-server/main.mjs",
     "content:build": "tsx tools/build-content.ts"
   },

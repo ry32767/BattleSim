@@ -20,5 +20,5 @@ export function officialIconUrl(presetId: string): string | undefined {
 
 /** Public builds use authored badges; private local use is an explicit opt-in. */
 export function displayIconUrl(presetId: string): string | undefined {
-  return import.meta.env.VITE_USE_OFFICIAL_ICONS === 'true' ? officialIconUrl(presetId) : undefined;
+  return import.meta.env.MODE !== 'pages' && import.meta.env.VITE_USE_OFFICIAL_ICONS === 'true' ? officialIconUrl(presetId) : undefined;
 }
