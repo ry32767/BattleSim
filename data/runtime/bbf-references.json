@@ -1,0 +1,848 @@
+[
+  {
+    "id": "bbf:char_01",
+    "characterId": "char_01",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 6,
+      "attack": 7,
+      "defenseSupport": 9,
+      "mobility": 8,
+      "technique": 8
+    }
+  },
+  {
+    "id": "bbf:char_03",
+    "characterId": "char_03",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 7,
+      "attack": 9,
+      "defenseSupport": 8,
+      "mobility": 10,
+      "technique": 8
+    }
+  },
+  {
+    "id": "bbf:char_04",
+    "characterId": "char_04",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 5,
+      "attack": 7,
+      "defenseSupport": 5,
+      "mobility": 8,
+      "technique": 6
+    }
+  },
+  {
+    "id": "bbf:char_06",
+    "characterId": "char_06",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 6,
+      "attack": 7,
+      "defenseSupport": 9,
+      "mobility": 7,
+      "technique": 8
+    }
+  },
+  {
+    "id": "bbf:char_09",
+    "characterId": "char_09",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 7,
+      "attack": 7,
+      "defenseSupport": 7,
+      "mobility": 7,
+      "technique": 7
+    }
+  },
+  {
+    "id": "bbf:char_10",
+    "characterId": "char_10",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 7,
+      "attack": 12,
+      "defenseSupport": 5,
+      "mobility": 7,
+      "technique": 9
+    }
+  },
+  {
+    "id": "bbf:char_11",
+    "characterId": "char_11",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 5,
+      "attack": 6,
+      "defenseSupport": 4,
+      "mobility": 5,
+      "technique": 7
+    }
+  },
+  {
+    "id": "bbf:char_12",
+    "characterId": "char_12",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 8,
+      "attack": 8,
+      "defenseSupport": 7,
+      "mobility": 7,
+      "technique": 8
+    }
+  },
+  {
+    "id": "bbf:char_13",
+    "characterId": "char_13",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 9,
+      "attack": 7,
+      "defenseSupport": 7,
+      "mobility": 5,
+      "technique": 7
+    }
+  },
+  {
+    "id": "bbf:char_15",
+    "characterId": "char_15",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 8,
+      "attack": 7,
+      "defenseSupport": 7,
+      "mobility": 8,
+      "technique": 8
+    }
+  },
+  {
+    "id": "bbf:char_17",
+    "characterId": "char_17",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 6,
+      "attack": 5,
+      "defenseSupport": 6,
+      "mobility": 5,
+      "technique": 7
+    }
+  },
+  {
+    "id": "bbf:char_18",
+    "characterId": "char_18",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 7,
+      "attack": 7,
+      "defenseSupport": 8,
+      "mobility": 5,
+      "technique": 8
+    }
+  },
+  {
+    "id": "bbf:char_19",
+    "characterId": "char_19",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 4,
+      "attack": 7,
+      "defenseSupport": 6,
+      "mobility": 8,
+      "technique": 6
+    }
+  },
+  {
+    "id": "bbf:char_20",
+    "characterId": "char_20",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 7,
+      "attack": 10,
+      "defenseSupport": 5,
+      "mobility": 7,
+      "technique": 9
+    }
+  },
+  {
+    "id": "bbf:char_21",
+    "characterId": "char_21",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 6,
+      "attack": 6,
+      "defenseSupport": 7,
+      "mobility": 4,
+      "technique": 9
+    }
+  },
+  {
+    "id": "bbf:char_22",
+    "characterId": "char_22",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 5,
+      "attack": 6,
+      "defenseSupport": 6,
+      "mobility": 8,
+      "technique": 7
+    }
+  },
+  {
+    "id": "bbf:char_23",
+    "characterId": "char_23",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 5,
+      "attack": 6,
+      "defenseSupport": 6,
+      "mobility": 8,
+      "technique": 6
+    }
+  },
+  {
+    "id": "bbf:char_24",
+    "characterId": "char_24",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 4,
+      "attack": 8,
+      "defenseSupport": 7,
+      "mobility": 8,
+      "technique": 9
+    }
+  },
+  {
+    "id": "bbf:char_25",
+    "characterId": "char_25",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 6,
+      "attack": 9,
+      "defenseSupport": 6,
+      "mobility": 7,
+      "technique": 7
+    }
+  },
+  {
+    "id": "bbf:char_27",
+    "characterId": "char_27",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 2,
+      "attack": 3,
+      "defenseSupport": 4,
+      "mobility": 4,
+      "technique": 5
+    }
+  },
+  {
+    "id": "bbf:char_28",
+    "characterId": "char_28",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 6,
+      "attack": 9,
+      "defenseSupport": 6,
+      "mobility": 8,
+      "technique": 7
+    }
+  },
+  {
+    "id": "bbf:char_29",
+    "characterId": "char_29",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 14,
+      "attack": 12,
+      "defenseSupport": 7,
+      "mobility": 6,
+      "technique": 8
+    }
+  },
+  {
+    "id": "bbf:char_30",
+    "characterId": "char_30",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 7,
+      "attack": 8,
+      "defenseSupport": 11,
+      "mobility": 5,
+      "technique": 10
+    }
+  },
+  {
+    "id": "bbf:char_31",
+    "characterId": "char_31",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 38,
+      "attack": 2,
+      "defenseSupport": 5,
+      "mobility": 3,
+      "technique": 6
+    }
+  },
+  {
+    "id": "bbf:char_32",
+    "characterId": "char_32",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 6,
+      "attack": 8,
+      "defenseSupport": 6,
+      "mobility": 5,
+      "technique": 10
+    }
+  },
+  {
+    "id": "bbf:char_34",
+    "characterId": "char_34",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 6,
+      "attack": 8,
+      "defenseSupport": 8,
+      "mobility": 5,
+      "technique": 8
+    }
+  },
+  {
+    "id": "bbf:char_36",
+    "characterId": "char_36",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 7,
+      "attack": 6,
+      "defenseSupport": 7,
+      "mobility": 6,
+      "technique": 8
+    }
+  },
+  {
+    "id": "bbf:char_37",
+    "characterId": "char_37",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 7,
+      "attack": 9,
+      "defenseSupport": 10,
+      "mobility": 7,
+      "technique": 9
+    }
+  },
+  {
+    "id": "bbf:char_38",
+    "characterId": "char_38",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 7,
+      "attack": 8,
+      "defenseSupport": 7,
+      "mobility": 7,
+      "technique": 7
+    }
+  },
+  {
+    "id": "bbf:char_39",
+    "characterId": "char_39",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 5,
+      "attack": 6,
+      "defenseSupport": 8,
+      "mobility": 7,
+      "technique": 8
+    }
+  },
+  {
+    "id": "bbf:char_41",
+    "characterId": "char_41",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 6,
+      "attack": 6,
+      "defenseSupport": 7,
+      "mobility": 6,
+      "technique": 7
+    }
+  },
+  {
+    "id": "bbf:char_42",
+    "characterId": "char_42",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 5,
+      "attack": 6,
+      "defenseSupport": 8,
+      "mobility": 4,
+      "technique": 11
+    }
+  },
+  {
+    "id": "bbf:char_43",
+    "characterId": "char_43",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 5,
+      "attack": 6,
+      "defenseSupport": 7,
+      "mobility": 7,
+      "technique": 6
+    }
+  },
+  {
+    "id": "bbf:char_45",
+    "characterId": "char_45",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 6,
+      "attack": 14,
+      "defenseSupport": 9,
+      "mobility": 8,
+      "technique": 8
+    }
+  },
+  {
+    "id": "bbf:char_46",
+    "characterId": "char_46",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 6,
+      "attack": 9,
+      "defenseSupport": 8,
+      "mobility": 9,
+      "technique": 9
+    }
+  },
+  {
+    "id": "bbf:char_47",
+    "characterId": "char_47",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 6,
+      "attack": 9,
+      "defenseSupport": 7,
+      "mobility": 4,
+      "technique": 13
+    }
+  },
+  {
+    "id": "bbf:char_48",
+    "characterId": "char_48",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 12,
+      "attack": 8,
+      "defenseSupport": 10,
+      "mobility": 5,
+      "technique": 9
+    }
+  },
+  {
+    "id": "bbf:char_51",
+    "characterId": "char_51",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 5,
+      "attack": 9,
+      "defenseSupport": 6,
+      "mobility": 11,
+      "technique": 7
+    }
+  },
+  {
+    "id": "bbf:char_53",
+    "characterId": "char_53",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 7,
+      "attack": 7,
+      "defenseSupport": 9,
+      "mobility": 7,
+      "technique": 8
+    }
+  },
+  {
+    "id": "bbf:char_54",
+    "characterId": "char_54",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 6,
+      "attack": 8,
+      "defenseSupport": 6,
+      "mobility": 5,
+      "technique": 9
+    }
+  },
+  {
+    "id": "bbf:char_55",
+    "characterId": "char_55",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 7,
+      "attack": 7,
+      "defenseSupport": 9,
+      "mobility": 7,
+      "technique": 8
+    }
+  },
+  {
+    "id": "bbf:char_56",
+    "characterId": "char_56",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 9,
+      "attack": 8,
+      "defenseSupport": 5,
+      "mobility": 7,
+      "technique": 8
+    }
+  },
+  {
+    "id": "bbf:char_57",
+    "characterId": "char_57",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 6,
+      "attack": 8,
+      "defenseSupport": 5,
+      "mobility": 10,
+      "technique": 6
+    }
+  },
+  {
+    "id": "bbf:char_58",
+    "characterId": "char_58",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 6,
+      "attack": 8,
+      "defenseSupport": 8,
+      "mobility": 7,
+      "technique": 9
+    }
+  },
+  {
+    "id": "bbf:char_59",
+    "characterId": "char_59",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 4,
+      "attack": 8,
+      "defenseSupport": 8,
+      "mobility": 9,
+      "technique": 9
+    }
+  },
+  {
+    "id": "bbf:char_60",
+    "characterId": "char_60",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 6,
+      "attack": 9,
+      "defenseSupport": 7,
+      "mobility": 5,
+      "technique": 12
+    }
+  },
+  {
+    "id": "bbf:char_64",
+    "characterId": "char_64",
+    "snapshot": "volume14-BBF-secondary",
+    "evidenceStatus": "secondary-summary",
+    "sourceIds": [
+      "S-BBF-WIKI"
+    ],
+    "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+    "reviewedAt": "2026-10-06",
+    "values": {
+      "trion": 7,
+      "attack": 8,
+      "defenseSupport": 6,
+      "mobility": 8,
+      "technique": 8
+    }
+  }
+]

@@ -1,0 +1,100 @@
+export type Team = 'A' | 'B';
+export type Stage = 'I' | 'II' | 'III';
+export type Slot = 'main' | 'sub';
+export type Stats = { ap: number; trion: number; attack: number; defense: number; evasion: number; support: number; technique: number };
+export type Evidence = { evidenceStatus: 'original' | 'observed' | 'secondary-summary' | 'conflicting-sources'; sourceIds: string[]; rationale?: string; referenceIds?: string[] };
+export type Loadout = { main: string[]; sub: string[] };
+export type WeaponProfile = Evidence & {
+  id: string; name: string; family: string; enabled: boolean; status: string;
+  actionKind: 'melee' | 'shot' | 'sniper' | 'blast' | 'support' | 'option';
+  attackAp: number | null; defenseAp: number | null; waitUnits: number;
+  basePower: number | null; baseHit: number | null; range: number | null; sector: number;
+  powerModel: 'attack' | 'trion' | 'fixed' | 'ibis' | 'meteor' | 'none';
+  requiredSlots: 1 | 2; dependencies: string[]; defenseModel: 'shield' | 'raygust' | 'kogetsu' | null;
+  penetration: boolean; structureDamage: number | null; projectile: boolean;
+  friendlyFire: boolean; guardable: boolean; evadable: boolean;
+  options?: Record<string, number | boolean | string>;
+};
+export type EffectDefinition = Evidence & {
+  id: string; name: string; enabled: boolean; status: string;
+  triggerHook: string; priority: number; ap: number; wait: number;
+  stackKey: string; maxStacks: number; duration: 'tick' | 'turn' | 'match' | 'action';
+  kind: string; values: Record<string, number | boolean | string>; description: string;
+};
+export type CharacterPreset = Evidence & {
+  id: string; characterId: string; name: string; group: string; position: string;
+  kind: 'character' | 'soldier'; stats: Stats; defaultLoadout: Loadout; skills: string[];
+  rangeOverride: Record<string, number>; enabled: boolean; status: string;
+  assetId: string; snapshot: string; mode: 'normal' | 'training' | 'supplemented';
+  strongLegsIncluded: boolean;
+};
+export type ContentPack = {
+  version: string; ruleVersion: string; calibrated: boolean;
+  characters: CharacterPreset[]; weapons: WeaponProfile[]; effects: EffectDefinition[];
+  helpPools: Record<Stage, string[]>; teams: { number: number; members: string[]; operator: string }[];
+  overrides: (Evidence & { characterId: string; field: string; value: number; transformationVersion: string; plausibleRange: number[]; validationCaseIds: string[]; snapshot: string })[];
+};
+export type Surface = { id: string; cellId: string; kind: 'ground' | 'roof'; z: number; walkable: boolean };
+export type Cell = { id: string; q: number; r: number; terrain: string; roadClass?: string | null; groundHeight: number; buildingId: string | null; roofHeight: number | null; surfaces: Surface[]; occluder?: unknown };
+export type Building = { id: string; name: string; cellIds: string[]; roofKind: string; category: string; materialId?: string };
+export type Point3 = { x: string; y: string; z: string; denominator?: string };
+export type StructureElement = { id: string; buildingId: string; cellId: string; layerIndex: number; materialId: string; maxDurability: number; currentDurability: number; supportIds: string[] };
+export type BattleMap = { schemaVersion: number; id: string; version: string; geometryVersion?: string; stage: Stage;
+  dimensions: { columns: number; rows: number; offset: string; orientation: string };
+  renderScale: { hexRadius: number; heightStep: number; humanHeight: number; shear: number; verticalProjection: number; absoluteMetersPerCell: number | null };
+  cells: Cell[]; buildings: Building[]; spawnSlots: { team: Team; index: number; surfaceId: string }[];
+  landmarks?: { id: string; label: string; cellId: string }[]; structures?: StructureElement[];
+};
+export const STAGES = {
+  I: { copies: 2, help: 1, total: 9, changes: 2, threshold: 2, points: [50, 10, 0] },
+  II: { copies: 3, help: 2, total: 14, changes: 3, threshold: 3, points: [100, 20, 0] },
+  III: { copies: 5, help: 4, total: 24, changes: 5, threshold: 5, points: [200, 40, 0] },
+} as const;
+export type Roster = { base: string[]; help: string[]; changes: { unitIndex: number; loadout: Loadout }[] };
+export type CommandKind = 'MOVE' | 'WAIT' | 'HOLD' | 'TRACK' | 'GUARD' | 'FULL_GUARD' | 'ALL_ROUND' | 'STEALTH' | 'FIRE_AT' | 'SPECIAL';
+export type Command = { kind: CommandKind; path?: string[]; durationTicks?: number; contactId?: string; allyId?: string; aim?: Point3; slot?: Slot;
+  main?: string; sub?: string; mainDirection?: number; subDirection?: number; mainMode?: 'attack' | 'shield'; subMode?: 'attack' | 'shield'; effectId?: string;
+  chargeBp?: number; blastBp?: number; divisionCount?: number;
+  weaponId?: string; targetSurfaceId?: string; waypoints?: Point3[]; chosenEffectIds?: string[];
+};
+export type TurnPlan = { unitId: string; planRevision: number; commands: Command[] };
+export type UnitState = {
+  id: string; team: Team; presetId: string; name: string; copy: number; kind: 'character' | 'soldier';
+  stats: Stats; loadout: Loadout; skills: string[]; rangeOverride: Record<string, number>;
+  surfaceId: string; hp: number; ap: number; alive: boolean;
+  main: string; sub: string; mainDirection: number; subDirection: number; mainMode?: 'attack' | 'shield'; subMode?: 'attack' | 'shield';
+  commandIndex: number; readyAtTick: number; nextAttackAtTick: number; nextCommandAtTick: number;
+  activeCommand: Command | null; commandEndsAtTick: number; pathIndex: number;
+  pendingMove: { from: string; to: string; completesAtTick: number; cost: number; via?: string[]; continuationPath?: string[]; awaitingContinuation?: boolean } | null;
+  effectState: Record<string, number | string | boolean>; supportRemaining: number;
+};
+export type Projectile = { id: string; ownerId: string; team: Team; profileId: string; origin: Point3; aim: Point3; position: Point3; travelledDistance: string; speed: string; length: string; ageTicks: number; bornAtTick: number; budget: number; radius: string; hp: number; fuse: number; profile?: WeaponProfile; waypoints?: Point3[]; waypointIndex?: number };
+export type Contact = { contactId: string; number: string; reportedCell: string; observedAtTick: number;
+  channel: 'visual' | 'radar' | 'lost'; tag: string; surfaceId?: string; name?: string; presetId?: string;
+  hp?: number; ap?: number; main?: string; sub?: string; mainDirection?: number; subDirection?: number;
+  mainMode?: 'attack' | 'shield'; subMode?: 'attack' | 'shield';
+  lastKnown?: { name?: string; observedAtTick: number; surfaceId?: string }; defeated?: boolean;
+};
+export type ObservationState = { contacts: Contact[]; contactLinks: Record<string, string>; nextContactNumber: number; visibleCells: string[]; observedCells: Cell[]; teamGeometryRevision: number };
+export type Manifest = { schemaVersion: string; ruleVersion: string; contentVersion: string; mapVersion: string; geometryVersion: string; stage: Stage; seed: number; hashes: Record<string, string> };
+export type BattleState = { manifest: Manifest; map: BattleMap; turn: number; absoluteTick: number; units: UnitState[];
+  projectiles: Projectile[]; structures: StructureElement[]; geometryRevision: number;
+  rngState: number; effects: Record<string, unknown>; observations: Record<Team, ObservationState>;
+};
+export type BattleEvent = { id: string; turn: number; tick: number; groupId: string; kind: string; actorId?: string; targetId?: string;
+  reasonCode: string; description: string; planRevision?: number; commandIndex?: number; slot?: Slot;
+  apBefore?: number; apAfter?: number; waitBefore?: number; waitAfter?: number; damage?: number; reduction?: number; power?: number;
+  from?: string; to?: string; effectIds?: string[]; random?: { purpose: string; value: number; percent: number };
+  details?: Record<string, unknown>;
+};
+export type PublicState = { stage: Stage; turn: number; absoluteTick: number; team: Team; units: UnitState[]; contacts: Contact[];
+  map: BattleMap; visibleCells: string[]; teamGeometryRevision: number; counts: { own: number; enemy: number | null }; result: MatchResult | null;
+  projectiles?: { id: string; position: Point3; radius: string; kind: 'blast' | 'shot' }[];
+};
+export type MatchResult = { winner: Team | 'draw' | 'aborted'; survivors: Record<Team, number>; difference: number; threshold: number; reason: string; points: Record<Team, number> };
+export type Frame = { tick: number; stateHash: string; state: BattleState; views: Record<Team, PublicState>; events: BattleEvent[]; teamEvents: Record<Team, BattleEvent[]> };
+export type TurnResolution = { nextState: BattleState; fullEvents: BattleEvent[]; frames: Frame[]; checkpoints: Frame[]; result: MatchResult | null };
+export type Replay = { version: string; manifest: Manifest; contentVersion: string; mapVersion: string; initialState: BattleState; turns: { turn: number; plans: TurnPlan[]; frames: Frame[]; events: BattleEvent[] }[]; result: MatchResult | null };
+export type Validation = { ok: boolean; errors: string[] };
+export const otherTeam = (team: Team): Team => team === 'A' ? 'B' : 'A';
+export const stableCompare = (a: string, b: string): number => a < b ? -1 : a > b ? 1 : 0;

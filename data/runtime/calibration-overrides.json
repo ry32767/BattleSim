@@ -1,0 +1,122 @@
+[
+  {
+    "evidenceStatus": "original",
+    "sourceIds": [],
+    "weaponId": "trigger_01",
+    "field": "options.penetrationBudget",
+    "value": 12,
+    "baselineValue": 12,
+    "snapshot": "C2-project-fixture-calibration",
+    "transformationVersion": "C2.0",
+    "referenceIds": [
+      "C2-U-D1-U-D2"
+    ],
+    "rationale": "Unchanged independent fixtures and material durability; preserve passing Ibis B1 values and tune one shared Meteor budget scale. No character or fixture branches.",
+    "plausibleRange": [
+      12,
+      12
+    ],
+    "validationCaseIds": [
+      "U-D1-C2-residential-T25",
+      "U-D2-C2-mall-T25",
+      "U-D1-C2-T6-control",
+      "U-D2-C2-T6-control"
+    ]
+  },
+  {
+    "evidenceStatus": "original",
+    "sourceIds": [],
+    "weaponId": "trigger_01",
+    "field": "options.localFractureCoefficient",
+    "value": 500000,
+    "baselineValue": 500000,
+    "snapshot": "C2-project-fixture-calibration",
+    "transformationVersion": "C2.0",
+    "referenceIds": [
+      "C2-U-D1-U-D2"
+    ],
+    "rationale": "Unchanged independent fixtures and material durability; preserve passing Ibis B1 values and tune one shared Meteor budget scale. No character or fixture branches.",
+    "plausibleRange": [
+      500000,
+      500000
+    ],
+    "validationCaseIds": [
+      "U-D1-C2-residential-T25",
+      "U-D2-C2-mall-T25",
+      "U-D1-C2-T6-control",
+      "U-D2-C2-T6-control"
+    ]
+  },
+  {
+    "evidenceStatus": "original",
+    "sourceIds": [],
+    "weaponId": "trigger_29",
+    "field": "options.blastBudget",
+    "value": 26,
+    "baselineValue": 12,
+    "snapshot": "C2-project-fixture-calibration",
+    "transformationVersion": "C2.0",
+    "referenceIds": [
+      "C2-U-D1-U-D2"
+    ],
+    "rationale": "Unchanged independent fixtures and material durability; preserve passing Ibis B1 values and tune one shared Meteor budget scale. No character or fixture branches.",
+    "plausibleRange": [
+      26,
+      26
+    ],
+    "validationCaseIds": [
+      "U-D1-C2-residential-T25",
+      "U-D2-C2-mall-T25",
+      "U-D1-C2-T6-control",
+      "U-D2-C2-T6-control"
+    ]
+  },
+  {
+    "evidenceStatus": "original",
+    "sourceIds": [],
+    "weaponId": "trigger_30",
+    "field": "options.blastBudget",
+    "value": 30,
+    "baselineValue": 14,
+    "snapshot": "C2-project-fixture-calibration",
+    "transformationVersion": "C2.0",
+    "referenceIds": [
+      "C2-U-D1-U-D2"
+    ],
+    "rationale": "Unchanged independent fixtures and material durability; preserve passing Ibis B1 values and tune one shared Meteor budget scale. No character or fixture branches.",
+    "plausibleRange": [
+      30,
+      30
+    ],
+    "validationCaseIds": [
+      "U-D1-C2-residential-T25",
+      "U-D2-C2-mall-T25",
+      "U-D1-C2-T6-control",
+      "U-D2-C2-T6-control"
+    ]
+  },
+  {
+    "evidenceStatus": "original",
+    "sourceIds": [],
+    "weaponId": "trigger_31",
+    "field": "options.blastBudget",
+    "value": 22,
+    "baselineValue": 10,
+    "snapshot": "C2-project-fixture-calibration",
+    "transformationVersion": "C2.0",
+    "referenceIds": [
+      "C2-U-D1-U-D2"
+    ],
+    "rationale": "Unchanged independent fixtures and material durability; preserve passing Ibis B1 values and tune one shared Meteor budget scale. No character or fixture branches.",
+    "plausibleRange": [
+      22,
+      22
+    ],
+    "validationCaseIds": [
+      "U-D1-C2-residential-T25",
+      "U-D2-C2-mall-T25",
+      "U-D1-C2-T6-control",
+      "U-D2-C2-T6-control"
+    ]
+  }
+]

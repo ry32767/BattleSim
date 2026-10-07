@@ -1,0 +1,90 @@
+/* UI verification only: set NODE_PATH to an installed Playwright package directory. */
+const { chromium } = require('playwright');
+const fs = require('node:fs');
+const path = require('node:path');
+const assert = require('node:assert/strict');
+const { pathToFileURL } = require('node:url');
+const root = path.resolve(__dirname, '..');
+const output = path.resolve(root, '../../output');
+async function main() {
+  fs.mkdirSync(output, { recursive: true });
+  const browser = await chromium.launch({ headless: true });
+  const page = await browser.newPage({ viewport: { width: 1366, height: 768 } });
+  const errors = [];
+  page.on('pageerror', error => errors.push(error.message));
+  await page.goto(pathToFileURL(path.join(root, 'map-preview.html')).href);
+  await page.locator('#mapSvg').waitFor();
+  assert.equal(await page.locator('polygon.cell').count(), 1024);
+  assert.equal(await page.locator('.spawn').count(), 18);
+  assert.equal(await page.locator('.human').count(),2);
+  assert.equal(await page.evaluate(()=>world(0,0,1)[1]-world(0,0,0)[1]),-7);
+  await page.locator('#people').uncheck();
+  assert.equal(await page.locator('.human').count(),0);
+  await page.locator('#people').check();
+  // Flat view is also the selection aid for surfaces behind tall buildings.
+  await page.locator('#view').click();
+  const begin = 'c:-7:-12', finish = 'c:-7:-10';
+  await page.locator(`[data-cell="${begin}"]`).click();
+  assert.match(await page.locator('#detail').innerText(), /q=-7, r=-12/);
+  await page.locator('#start').click();
+  await page.locator(`[data-cell="${finish}"]`).click();
+  assert.match(await page.locator('#detail').innerText(), /屋上 \/ 高さ 6/);
+  const ordinary = await page.locator('#routeInfo').innerText();
+  assert.match(ordinary, /基礎移動AP \d+/);
+  const pathNormal = await page.evaluate(() => route.map(c => ({ q:c.q, r:c.r, z:c.surfaces[0].z })));
+  const apNormal = Number(ordinary.match(/AP (\d+)/)[1]);
+  assert.equal(pathNormal[0].z, 0);
+  assert.equal(pathNormal.at(-1).z, 6);
+  let total = 0;
+  for (let i=1;i<pathNormal.length;i++) {
+    const a=pathNormal[i-1],b=pathNormal[i],dq=b.q-a.q,dr=b.r-a.r,dz=b.z-a.z;
+    assert.equal(Math.max(Math.abs(dq),Math.abs(dr),Math.abs(dq+dr)),1);
+    assert.ok(dz<=2);
+    total+=1+Math.max(0,dz);
+  }
+  assert.equal(total, apNormal);
+  await page.locator('#grass').check();
+  await page.locator('#grid').check();
+  assert.equal(await page.locator('polygon.cell').count(),1024);
+  await page.locator('#grid').uncheck();
+  const boosted = await page.locator('#routeInfo').innerText();
+  const apBoost = Number(boosted.match(/AP (\d+)/)[1]);
+  assert.ok(apBoost<apNormal);
+  await page.locator('#view').click();
+  await page.screenshot({ path: path.join(output, 'map-m1.1-I-iso.png'), fullPage: true });
+  await page.locator('#view').click();
+  assert.match(await page.locator('#detail').innerText(), /屋上 \/ 高さ 6/);
+  assert.equal(await page.locator('#routeInfo').innerText(), boosted);
+  await page.screenshot({ path: path.join(output, 'map-m1.1-I-flat.png'), fullPage: true });
+  for (const [stage, cells, slots] of [['II',1156,28], ['III',1296,48]]) {
+    await page.locator('#stage').selectOption(stage);
+    assert.equal(await page.locator('polygon.cell').count(),cells);
+    assert.equal(await page.locator('.spawn').count(),slots);
+    assert.equal(await page.locator('#routeInfo').innerText(),'始点未設定');
+  }
+  await page.setViewportSize({width:1920,height:1080});
+  await page.locator('#view').click();
+  await page.screenshot({ path:path.join(output,'map-m1.1-III-wide.png'), fullPage:true });
+  await page.locator('#zoomIn').click();
+  const zoomed = await page.locator('#mapSvg').getAttribute('viewBox');
+  await page.locator('#fit').click();
+  assert.notEqual(await page.locator('#mapSvg').getAttribute('viewBox'),zoomed);
+  await page.setViewportSize({width:390,height:844});
+  assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+  await page.screenshot({ path:path.join(output,'map-m1.1-narrow.png'), fullPage:true });
+  const [download] = await Promise.all([page.waitForEvent('download'),page.locator('#download').click()]);
+  const saved = path.join(output,'map-m1.1-download-check.json');
+  await download.saveAs(saved);
+  assert.deepEqual(JSON.parse(fs.readFileSync(saved,'utf8')),JSON.parse(fs.readFileSync(path.join(root,'data/maps/city-III.json'),'utf8')));
+  await page.goto(pathToFileURL(path.join(root,'仕様書.html')).href);
+  assert.equal(await page.locator('section').count(),14);
+  const broken = await page.evaluate(()=>Array.from(document.querySelectorAll('a[href^="#"]')).map(a=>a.getAttribute('href').slice(1)).filter(id=>!document.getElementById(id)));
+  assert.deepEqual(broken,[]);
+  await page.locator('#filter').fill('M1');
+  assert.ok(await page.locator('tbody tr[hidden]').count()>0);
+  assert.ok(await page.locator('tbody tr:not([hidden])').count()>0);
+  assert.deepEqual(errors,[]);
+  console.log(JSON.stringify({ result:'PASS',browser:'Chromium',normalAP:apNormal,grasshopperAP:apBoost,stages:[1024,1156,1296],slots:[18,28,48],viewSwitch:'same selected surface and path',download:'exact JSON',sections:14,pageErrors:errors,screenshots:output },null,2));
+  await browser.close();
+}
+main().catch(error=>{console.error(error);process.exit(1);});

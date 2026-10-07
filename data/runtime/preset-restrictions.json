@@ -1,0 +1,858 @@
+[
+  {
+    "presetId": "char_01-supplemented",
+    "characterId": "char_01",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_01",
+      "skill_38",
+      "skill_47"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_02-supplemented",
+    "characterId": "char_02",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_11",
+      "skill_38",
+      "skill_45"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_03-supplemented",
+    "characterId": "char_03",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_14",
+      "skill_19",
+      "skill_47"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_04-supplemented",
+    "characterId": "char_04",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_28",
+      "skill_40"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_05-supplemented",
+    "characterId": "char_05",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_21",
+      "skill_44"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_06-supplemented",
+    "characterId": "char_06",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_07",
+      "skill_43",
+      "skill_44"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_07-supplemented",
+    "characterId": "char_07",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_07",
+      "skill_44"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_08-supplemented",
+    "characterId": "char_08",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_21",
+      "skill_44"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_09-supplemented",
+    "characterId": "char_09",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_04",
+      "skill_43"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_10-supplemented",
+    "characterId": "char_10",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_14",
+      "skill_47"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_11-supplemented",
+    "characterId": "char_11",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_32"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_12-supplemented",
+    "characterId": "char_12",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_04",
+      "skill_05",
+      "skill_39"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_13-supplemented",
+    "characterId": "char_13",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_31",
+      "skill_39",
+      "skill_49"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_14-supplemented",
+    "characterId": "char_14",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_13",
+      "skill_22"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_15-supplemented",
+    "characterId": "char_15",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_17",
+      "skill_38",
+      "skill_47"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_16-supplemented",
+    "characterId": "char_16",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_19",
+      "skill_44"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_17-supplemented",
+    "characterId": "char_17",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_05",
+      "skill_45"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_18-supplemented",
+    "characterId": "char_18",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_06",
+      "skill_20"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_19-supplemented",
+    "characterId": "char_19",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_19",
+      "skill_44"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_20-supplemented",
+    "characterId": "char_20",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_28",
+      "skill_29",
+      "skill_40"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_21-supplemented",
+    "characterId": "char_21",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_18",
+      "skill_22"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_22-supplemented",
+    "characterId": "char_22",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_07",
+      "skill_43",
+      "skill_44"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_23-supplemented",
+    "characterId": "char_23",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_41",
+      "skill_44"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_24-supplemented",
+    "characterId": "char_24",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_13",
+      "skill_16",
+      "skill_48"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_25-supplemented",
+    "characterId": "char_25",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_03",
+      "skill_46"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_26-supplemented",
+    "characterId": "char_26",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_15",
+      "skill_22"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_27-supplemented",
+    "characterId": "char_27",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_48",
+      "skill_55"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_28-supplemented",
+    "characterId": "char_28",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [
+      "skill_01",
+      "skill_51"
+    ],
+    "supplementedEffectIds": [],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_29-supplemented",
+    "characterId": "char_29",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_08",
+      "skill_33"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_30-supplemented",
+    "characterId": "char_30",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_12",
+      "skill_22"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_31-supplemented",
+    "characterId": "char_31",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [
+      "skill_23",
+      "skill_27",
+      "skill_36",
+      "skill_37"
+    ],
+    "supplementedEffectIds": [],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_32-supplemented",
+    "characterId": "char_32",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_06",
+      "skill_30"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_33-supplemented",
+    "characterId": "char_33",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_08",
+      "skill_10"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_34-supplemented",
+    "characterId": "char_34",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_18",
+      "skill_34"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_35-supplemented",
+    "characterId": "char_35",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_19",
+      "skill_44"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_36-supplemented",
+    "characterId": "char_36",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [
+      "skill_02"
+    ],
+    "supplementedEffectIds": [
+      "skill_04"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_37-supplemented",
+    "characterId": "char_37",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_07",
+      "skill_12"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_38-supplemented",
+    "characterId": "char_38",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_03",
+      "skill_46"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_39-supplemented",
+    "characterId": "char_39",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_07",
+      "skill_41"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_40-supplemented",
+    "characterId": "char_40",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [
+      "skill_02"
+    ],
+    "supplementedEffectIds": [
+      "skill_26"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_41-supplemented",
+    "characterId": "char_41",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_04",
+      "skill_05"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_42-supplemented",
+    "characterId": "char_42",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_22",
+      "skill_30"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_43-supplemented",
+    "characterId": "char_43",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_07",
+      "skill_38"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_44-supplemented",
+    "characterId": "char_44",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_09",
+      "skill_42",
+      "skill_52"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_45-supplemented",
+    "characterId": "char_45",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [
+      "skill_01"
+    ],
+    "supplementedEffectIds": [
+      "skill_44"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_46-supplemented",
+    "characterId": "char_46",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [
+      "skill_01"
+    ],
+    "supplementedEffectIds": [
+      "skill_38",
+      "skill_47"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_47-supplemented",
+    "characterId": "char_47",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [
+      "skill_16"
+    ],
+    "supplementedEffectIds": [
+      "skill_13"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_48-supplemented",
+    "characterId": "char_48",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [
+      "skill_02",
+      "skill_26",
+      "skill_42",
+      "skill_52"
+    ],
+    "supplementedEffectIds": [],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_49-supplemented",
+    "characterId": "char_49",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_21",
+      "skill_43"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_50-supplemented",
+    "characterId": "char_50",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_04",
+      "skill_29",
+      "skill_40"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_51-supplemented",
+    "characterId": "char_51",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_19",
+      "skill_47"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_52-supplemented",
+    "characterId": "char_52",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_11",
+      "skill_45"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_53-supplemented",
+    "characterId": "char_53",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_04",
+      "skill_43",
+      "skill_50"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_54-supplemented",
+    "characterId": "char_54",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_25",
+      "skill_22"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_55-supplemented",
+    "characterId": "char_55",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_04",
+      "skill_43",
+      "skill_50"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_56-supplemented",
+    "characterId": "char_56",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_24",
+      "skill_50"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_57-supplemented",
+    "characterId": "char_57",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [
+      "skill_01"
+    ],
+    "supplementedEffectIds": [
+      "skill_53"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_58-supplemented",
+    "characterId": "char_58",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_35",
+      "skill_54"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_59-supplemented",
+    "characterId": "char_59",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_24",
+      "skill_41"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_60-supplemented",
+    "characterId": "char_60",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_13",
+      "skill_22"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_61-supplemented",
+    "characterId": "char_61",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_04",
+      "skill_48"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_62-supplemented",
+    "characterId": "char_62",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_07",
+      "skill_43"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_63-supplemented",
+    "characterId": "char_63",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_20",
+      "skill_22"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  },
+  {
+    "presetId": "char_64-supplemented",
+    "characterId": "char_64",
+    "normalOwnershipComplete": false,
+    "observedOrSecondaryKnownEffectIds": [],
+    "supplementedEffectIds": [
+      "skill_52",
+      "skill_22"
+    ],
+    "omittedWeaponIds": [],
+    "omittedEffectIds": [],
+    "reason": "explicit-original-sandbox-not-normal-simulation"
+  }
+]

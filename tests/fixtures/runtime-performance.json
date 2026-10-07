@@ -1,0 +1,29 @@
+{
+  "environment": "local Windows, isolated measured run",
+  "ruleVersion": "R1.3",
+  "contentVersion": "C2.0-calibrated",
+  "I": {
+    "bodies": 18,
+    "compileMs": 55,
+    "resolveMs": 551,
+    "underOneSecond": true,
+    "frames": 151,
+    "events": 896
+  },
+  "II": {
+    "bodies": 28,
+    "compileMs": 37,
+    "resolveMs": 597,
+    "underOneSecond": true,
+    "frames": 151,
+    "events": 1389
+  },
+  "III": {
+    "bodies": 48,
+    "compileMs": 53,
+    "resolveMs": 839,
+    "underOneSecond": true,
+    "frames": 151,
+    "events": 2460
+  }
+}

@@ -1,0 +1,469 @@
+[
+  {
+    "id": "skill_01",
+    "name": "近接連携",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [
+      "香取葉子",
+      "太刀川慶",
+      "風間蒼也",
+      "黒江双葉"
+    ],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_02",
+    "name": "射撃連携",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [
+      "照屋文香",
+      "蔵内和紀",
+      "出水公平"
+    ],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_03",
+    "name": "Wショットガン",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_04",
+    "name": "Wライフル",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_05",
+    "name": "足止め射撃",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_06",
+    "name": "足止め狙撃",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_07",
+    "name": "受け太刀",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_08",
+    "name": "嘘つき射撃",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_09",
+    "name": "エスクード攻撃",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_10",
+    "name": "おとり",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_11",
+    "name": "隠密射撃",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_12",
+    "name": "学習能力",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_13",
+    "name": "感覚狙撃",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_14",
+    "name": "直感回避",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_15",
+    "name": "機動狙撃",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_16",
+    "name": "急所狙い",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [
+      "当真勇"
+    ],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_17",
+    "name": "強化聴覚",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_18",
+    "name": "近接防御",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_19",
+    "name": "健脚",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_20",
+    "name": "牽制狙撃",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_21",
+    "name": "混合両攻撃",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_22",
+    "name": "精密狙撃",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_23",
+    "name": "戦闘経験不足",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [
+      "雨取千佳"
+    ],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_24",
+    "name": "槍術",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_25",
+    "name": "ツインスナイプ",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_26",
+    "name": "トリオン・大",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [
+      "出水公平"
+    ],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_27",
+    "name": "トリオン・極大",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [
+      "雨取千佳"
+    ],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_28",
+    "name": "二丁拳銃",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_29",
+    "name": "早撃ち",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_30",
+    "name": "張り付き",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_31",
+    "name": "不安定な射撃",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_32",
+    "name": "不安定な狙撃",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_33",
+    "name": "複合両攻撃",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_34",
+    "name": "元・攻撃手",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_35",
+    "name": "鉛弾（改）",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_36",
+    "name": "鉛弾狙撃",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [
+      "雨取千佳"
+    ],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_37",
+    "name": "鉛弾追尾弾",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [
+      "雨取千佳"
+    ],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_38",
+    "name": "カメレオン適正",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_39",
+    "name": "機関銃適正",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_40",
+    "name": "拳銃適正",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_41",
+    "name": "幻踊適正",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_42",
+    "name": "合成弾適正",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [
+      "出水公平"
+    ],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_43",
+    "name": "護衛適正",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_44",
+    "name": "弧月適正",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_45",
+    "name": "サイレンサー適正",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_46",
+    "name": "散弾銃適正",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_47",
+    "name": "スコーピオン適正",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_48",
+    "name": "スパイダー適正",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_49",
+    "name": "榴弾銃適正",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_50",
+    "name": "テレポーター適正",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_51",
+    "name": "万能適正",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [
+      "香取葉子"
+    ],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_52",
+    "name": "変化弾適正",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [
+      "出水公平"
+    ],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_53",
+    "name": "魔光（試作）適正",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_54",
+    "name": "レッドバレット適正",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  },
+  {
+    "id": "skill_55",
+    "name": "ワイヤー起動適正",
+    "source": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+    "evidence_status": "secondary-summary",
+    "owners": [],
+    "effect_status": "partial-not-runtime-defined"
+  }
+]

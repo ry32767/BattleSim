@@ -1,0 +1,104 @@
+[
+  {
+    "id": "V3-G1",
+    "weapon_name": null,
+    "candidate_inference": "射手",
+    "values": {
+      "ap": 2,
+      "cooldown": 1,
+      "power": 10,
+      "hit_percent": 100,
+      "range": 8,
+      "sector_degrees": 60
+    },
+    "evidence_status": "secondary-transcription",
+    "source_id": "S11",
+    "original_panel": "V3",
+    "allowed_runtime_binding": false
+  },
+  {
+    "id": "V3-G2",
+    "weapon_name": null,
+    "candidate_inference": "拳銃",
+    "values": {
+      "ap": 2,
+      "cooldown": 1,
+      "power": 11,
+      "hit_percent": 95,
+      "range": 5,
+      "sector_degrees": 60
+    },
+    "evidence_status": "secondary-transcription",
+    "source_id": "S11",
+    "original_panel": "V3",
+    "allowed_runtime_binding": false
+  },
+  {
+    "id": "V3-G3",
+    "weapon_name": null,
+    "candidate_inference": "散弾銃",
+    "values": {
+      "ap": 2,
+      "cooldown": 1,
+      "power": 11,
+      "hit_percent": 95,
+      "range": 5,
+      "sector_degrees": 60
+    },
+    "evidence_status": "secondary-transcription",
+    "source_id": "S11",
+    "original_panel": "V3",
+    "allowed_runtime_binding": false
+  },
+  {
+    "id": "V3-G4",
+    "weapon_name": null,
+    "candidate_inference": "突撃銃",
+    "values": {
+      "ap": 3,
+      "cooldown": 1,
+      "power": 13,
+      "hit_percent": 90,
+      "range": 8,
+      "sector_degrees": 60
+    },
+    "evidence_status": "secondary-transcription",
+    "source_id": "S11",
+    "original_panel": "V3",
+    "allowed_runtime_binding": false
+  },
+  {
+    "id": "V3-G5",
+    "weapon_name": null,
+    "candidate_inference": "機関砲",
+    "values": {
+      "ap": 3,
+      "cooldown": 1,
+      "power": 15,
+      "hit_percent": 90,
+      "range": 8,
+      "sector_degrees": 60
+    },
+    "evidence_status": "secondary-transcription",
+    "source_id": "S11",
+    "original_panel": "V3",
+    "allowed_runtime_binding": false
+  },
+  {
+    "id": "V3-G6",
+    "weapon_name": null,
+    "candidate_inference": "メテオラ",
+    "values": {
+      "ap": 2,
+      "cooldown": 1,
+      "power": 8,
+      "hit_percent": 100,
+      "range": 8,
+      "sector_degrees": 60
+    },
+    "evidence_status": "secondary-transcription",
+    "source_id": "S11",
+    "original_panel": "V3",
+    "allowed_runtime_binding": false
+  }
+]

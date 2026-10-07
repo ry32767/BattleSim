@@ -1,0 +1,19 @@
+node_modules/
+dist/
+dist-server/
+test-results/
+playwright-report/
+*.log
+.env
+.env.*
+!.env.example
+output/
+# Third-party reference images and the HTML that embeds them stay local.
+closed-battle-spec-v0.2/closed-battle-spec/docs/images/
+closed-battle-spec-v0.2/closed-battle-spec/仕様書.html
+*.pem
+*.key
+*.pfx
+*.p12
+__pycache__/
+*.py[cod]

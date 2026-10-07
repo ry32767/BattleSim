@@ -1,0 +1,83 @@
+[
+  {
+    "character": "諏訪洸太郎",
+    "range": 5,
+    "evidence_status": "secondary-transcription",
+    "source_id": "S11",
+    "weapon_binding": null,
+    "includes_skill_bonus": null,
+    "allowed_runtime_binding": false
+  },
+  {
+    "character": "三雲修",
+    "range": 7,
+    "evidence_status": "secondary-transcription",
+    "source_id": "S11",
+    "weapon_binding": null,
+    "includes_skill_bonus": null,
+    "allowed_runtime_binding": false
+  },
+  {
+    "character": "香取葉子",
+    "range": 5,
+    "evidence_status": "secondary-transcription",
+    "source_id": "S11",
+    "weapon_binding": null,
+    "includes_skill_bonus": null,
+    "allowed_runtime_binding": false
+  },
+  {
+    "character": "隠岐孝二",
+    "range": 14,
+    "evidence_status": "secondary-transcription",
+    "source_id": "S11",
+    "weapon_binding": null,
+    "includes_skill_bonus": null,
+    "allowed_runtime_binding": false
+  },
+  {
+    "character": "太刀川慶",
+    "range": 2,
+    "evidence_status": "secondary-transcription",
+    "source_id": "S11",
+    "weapon_binding": null,
+    "includes_skill_bonus": null,
+    "allowed_runtime_binding": false
+  },
+  {
+    "character": "水上敏志",
+    "range": 7,
+    "evidence_status": "secondary-transcription",
+    "source_id": "S11",
+    "weapon_binding": null,
+    "includes_skill_bonus": null,
+    "allowed_runtime_binding": false
+  },
+  {
+    "character": "照屋文香",
+    "range": 8,
+    "evidence_status": "secondary-transcription",
+    "source_id": "S11",
+    "weapon_binding": null,
+    "includes_skill_bonus": null,
+    "allowed_runtime_binding": false
+  },
+  {
+    "character": "樫尾由多嘉",
+    "range": 7,
+    "evidence_status": "secondary-transcription",
+    "source_id": "S11",
+    "weapon_binding": null,
+    "includes_skill_bonus": null,
+    "allowed_runtime_binding": false
+  },
+  {
+    "character": "荒船哲次",
+    "range": 14,
+    "evidence_status": "secondary-transcription",
+    "source_id": "S11",
+    "weapon_binding": null,
+    "includes_skill_bonus": null,
+    "allowed_runtime_binding": false
+  }
+]

@@ -1,0 +1,14 @@
+:root {
+  --navy: #061329; --navy-raised: #102542; --panel: #f3f7fa; --white: #ffffff;
+  --ink: #14304c; --muted: #637a90; --line: #c8d9e5; --blue: #0879b9; --cyan: #25b5e5;
+  --amber: #b65c28; --amber-light: #fff0df; --danger: #b83141; --success: #277451;
+  --ground: #dbe7eb; --road: #f7fafb; --alley: #edf3f5; --roof: #b5cad3; --roof-selected: #8ed4ef;
+  --wall-left: #879faa; --wall-right: #9ab1bb; --grid: #b1c9d4; --fog: #98acb9;
+  --main-fill: #00a6df22; --sub-fill: #bd651a22; --unit-a: #14a8d6; --unit-b: #df9149;
+  --font-body: 'Yu Gothic UI', 'Meiryo', sans-serif; --font-display: 'Bahnschrift', 'Arial Narrow', sans-serif;
+  --font-utility: 'Consolas', monospace;
+  --s1: 4px; --s2: 8px; --s3: 12px; --s4: 16px; --s6: 24px; --s8: 32px;
+  --radius: 4px; --radius-lg: 8px; --fast: 140ms ease-out;
+  --radar-size: 232px; --radar-expanded-size: min(64dvh, 560px);
+  --panel-shadow: 0 8px 24px #0005;
+}

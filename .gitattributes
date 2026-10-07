@@ -1,0 +1,8 @@
+* text=auto eol=lf
+# Preserve the exact bytes of the observation ledgers and locked old maps.
+closed-battle-spec-v0.2/closed-battle-spec/data/** -text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webm binary
+*.mp4 binary

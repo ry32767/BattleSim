@@ -1,0 +1,3163 @@
+[
+  {
+    "id": "char_01",
+    "name": "歌川遼",
+    "group": "1番隊",
+    "position": "AR",
+    "normal_loadout": {
+      "main": [
+        "スコーピオン",
+        "メテオラ",
+        "シールド",
+        "アステロイド"
+      ],
+      "sub": [
+        "スコーピオン",
+        "カメレオン",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/73.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_02",
+    "name": "漆間恒",
+    "group": "1番隊",
+    "position": "GU",
+    "normal_loadout": {
+      "main": [
+        "アステロイド(突撃銃型)",
+        "カメレオン",
+        "シールド",
+        "ダミービーコン(試作)"
+      ],
+      "sub": [
+        "バッグワーム",
+        "サイレンサー",
+        "シールド",
+        "メテオラ"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/312.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_03",
+    "name": "空閑遊真",
+    "group": "1番隊",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "スコーピオン",
+        "グラスホッパー",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "スコーピオン",
+        "グラスホッパー",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/44.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_04",
+    "name": "巴虎太郎",
+    "group": "1番隊",
+    "position": "GU",
+    "normal_loadout": {
+      "main": [
+        "ハウンド(拳銃型)",
+        "アステロイド(拳銃型)",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "弧月",
+        "ダミービーコン(試作)",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/130.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_05",
+    "name": "王子一彰",
+    "group": "2番隊",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "弧月",
+        "旋空",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "スコーピオン",
+        "ハウンド",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/308.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_06",
+    "name": "辻新之助",
+    "group": "2番隊",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "弧月",
+        "旋空",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "FreeTrigger",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/149.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_07",
+    "name": "生駒達人",
+    "group": "2番隊",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "弧月",
+        "旋空",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "FreeTrigger",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/265.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_08",
+    "name": "帯島ユカリ",
+    "group": "2番隊",
+    "position": "AR",
+    "normal_loadout": {
+      "main": [
+        "アステロイド",
+        "ハウンド",
+        "シールド",
+        "バッグワーム"
+      ],
+      "sub": [
+        "弧月",
+        "旋空",
+        "シールド",
+        "FreeTrigger"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/305.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_09",
+    "name": "柿崎国治",
+    "group": "3番隊",
+    "position": "AR",
+    "normal_loadout": {
+      "main": [
+        "アステロイド(突撃銃型)",
+        "メテオラ(突撃銃型)",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "弧月",
+        "旋空",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/104.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_10",
+    "name": "影浦雅人",
+    "group": "3番隊",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "スコーピオン",
+        "FreeTrigger",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "スコーピオン",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/148.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_11",
+    "name": "別役太一",
+    "group": "3番隊",
+    "position": "SN",
+    "normal_loadout": {
+      "main": [
+        "イーグレット",
+        "アイビス",
+        "シールド",
+        "ライトニング"
+      ],
+      "sub": [
+        "バッグワーム",
+        "FreeTrigger",
+        "シールド",
+        "FreeTrigger"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/96.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_12",
+    "name": "犬飼澄晴",
+    "group": "3番隊",
+    "position": "GU",
+    "normal_loadout": {
+      "main": [
+        "アステロイド(突撃銃型)",
+        "ハウンド(突撃銃型)",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "ハウンド",
+        "スコーピオン",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/154.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_13",
+    "name": "北添尋",
+    "group": "4番隊",
+    "position": "GU",
+    "normal_loadout": {
+      "main": [
+        "メテオラ(擲弾銃型)",
+        "アステロイド(突撃銃型)",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "メテオラ(擲弾銃型)",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/152.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": "通常装備の突撃銃は軽機関銃形状。機関砲と同一視しない。"
+  },
+  {
+    "id": "char_14",
+    "name": "外岡一斗",
+    "group": "4番隊",
+    "position": "SN",
+    "normal_loadout": {
+      "main": [
+        "イーグレット",
+        "アイビス",
+        "シールド",
+        "ライトニング"
+      ],
+      "sub": [
+        "バッグワーム",
+        "FreeTrigger",
+        "シールド",
+        "FreeTrigger"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/306.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_15",
+    "name": "菊地原士郎",
+    "group": "4番隊",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "スコーピオン",
+        "FreeTrigger",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "スコーピオン",
+        "カメレオン",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/76.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_16",
+    "name": "南沢海",
+    "group": "4番隊",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "弧月",
+        "旋空",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "グラスホッパー",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/303.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_17",
+    "name": "来馬辰也",
+    "group": "5番隊",
+    "position": "GU",
+    "normal_loadout": {
+      "main": [
+        "アステロイド(突撃銃型)",
+        "ハウンド(突撃銃型)",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "サイレンサー",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/81.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": "通常構成はサブにサイレンサー。R7はサブでもハウンド突撃銃を使用、置換枠未確定。"
+  },
+  {
+    "id": "char_18",
+    "name": "穂刈篤",
+    "group": "5番隊",
+    "position": "SN",
+    "normal_loadout": {
+      "main": [
+        "イーグレット",
+        "シールド",
+        "FreeTrigger",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "バッグワーム",
+        "シールド",
+        "FreeTrigger",
+        "FreeTrigger"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/126.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_19",
+    "name": "小荒井登",
+    "group": "5番隊",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "弧月",
+        "旋空",
+        "シールド",
+        "グラスホッパー"
+      ],
+      "sub": [
+        "FreeTrigger",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/92.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_20",
+    "name": "弓場拓磨",
+    "group": "5番隊",
+    "position": "GU",
+    "normal_loadout": {
+      "main": [
+        "アステロイド(拳銃型)",
+        "バイパー(拳銃型)",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "アステロイド(拳銃型)",
+        "バイパー(拳銃型)",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/266.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_21",
+    "name": "古寺章平",
+    "group": "6番隊",
+    "position": "SN",
+    "normal_loadout": {
+      "main": [
+        "イーグレット",
+        "アイビス",
+        "シールド",
+        "ライトニング"
+      ],
+      "sub": [
+        "バッグワーム",
+        "FreeTrigger",
+        "シールド",
+        "FreeTrigger"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/89.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_22",
+    "name": "奥寺常幸",
+    "group": "6番隊",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "弧月",
+        "旋空",
+        "シールド",
+        "グラスホッパー"
+      ],
+      "sub": [
+        "FreeTrigger",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/93.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_23",
+    "name": "三浦雄太",
+    "group": "6番隊",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "弧月",
+        "旋空",
+        "シールド",
+        "幻踊"
+      ],
+      "sub": [
+        "カメレオン",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/173.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_24",
+    "name": "木虎藍",
+    "group": "6番隊",
+    "position": "AR",
+    "normal_loadout": {
+      "main": [
+        "アステロイド(拳銃型)",
+        "スパイダー(改):拳銃型",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "スコーピオン(改)",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": 4,
+      "attack": 8,
+      "defense": 6,
+      "evasion": 7,
+      "support": 7,
+      "technique": 9
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "secondary-summary",
+      "attack": "secondary-summary",
+      "defense": "secondary-summary",
+      "evasion": "secondary-summary",
+      "support": "secondary-summary",
+      "technique": "secondary-summary"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/84.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": "改造スコーピオンと拳銃型スパイダーを通常品に統合しない。"
+  },
+  {
+    "id": "char_25",
+    "name": "諏訪洸太郎",
+    "group": "7番隊",
+    "position": "GU",
+    "normal_loadout": {
+      "main": [
+        "アステロイド(散弾銃型)",
+        "FreeTrigger",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "アステロイド(散弾銃型)",
+        "スタアメーカー",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/83.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_26",
+    "name": "隠岐孝二",
+    "group": "7番隊",
+    "position": "SN",
+    "normal_loadout": {
+      "main": [
+        "イーグレット",
+        "ライトニング",
+        "シールド",
+        "グラスホッパー"
+      ],
+      "sub": [
+        "バッグワーム",
+        "FreeTrigger",
+        "シールド",
+        "FreeTrigger"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": 15,
+      "trion": 8,
+      "attack": 6,
+      "defense": 5,
+      "evasion": 7,
+      "support": 6,
+      "technique": 8
+    },
+    "simulation_stats_status": {
+      "ap": "secondary-summary",
+      "trion": "secondary-summary",
+      "attack": "secondary-summary",
+      "defense": "secondary-summary",
+      "evasion": "secondary-summary",
+      "support": "secondary-summary",
+      "technique": "secondary-summary"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/302.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_27",
+    "name": "三雲修",
+    "group": "7番隊",
+    "position": "SH",
+    "normal_loadout": {
+      "main": [
+        "レイガスト",
+        "スラスター",
+        "FreeTrigger",
+        "スパイダー"
+      ],
+      "sub": [
+        "アステロイド",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": 13,
+      "trion": 2,
+      "attack": 3,
+      "defense": 4,
+      "evasion": 4,
+      "support": 5,
+      "technique": 6
+    },
+    "simulation_stats_status": {
+      "ap": "secondary-summary",
+      "trion": "secondary-summary",
+      "attack": "secondary-summary",
+      "defense": "secondary-summary",
+      "evasion": "secondary-summary",
+      "support": "secondary-summary",
+      "technique": "secondary-summary"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/37.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_28",
+    "name": "香取葉子",
+    "group": "7番隊",
+    "position": "AR",
+    "normal_loadout": {
+      "main": [
+        "スコーピオン",
+        "アステロイド(拳銃型)",
+        "シールド",
+        "グラスホッパー"
+      ],
+      "sub": [
+        "スコーピオン",
+        "ハウンド(拳銃型)",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": 16,
+      "trion": 6,
+      "attack": 9,
+      "defense": 6,
+      "evasion": 8,
+      "support": 6,
+      "technique": 7
+    },
+    "simulation_stats_status": {
+      "ap": "secondary-summary",
+      "trion": "secondary-summary",
+      "attack": "secondary-summary",
+      "defense": "secondary-summary",
+      "evasion": "secondary-summary",
+      "support": "secondary-summary",
+      "technique": "secondary-summary"
+    },
+    "known_simulation_skills": [
+      "近接連携",
+      "万能適正"
+    ],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/172.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": "通常構成はハウンド拳銃。R8はスパイダー使用、置換枠に疑問符あり。シミュ初期構成未確定。"
+  },
+  {
+    "id": "char_29",
+    "name": "二宮匡貴",
+    "group": "8番隊",
+    "position": "SH",
+    "normal_loadout": {
+      "main": [
+        "アステロイド",
+        "ハウンド",
+        "シールド",
+        "メテオラ"
+      ],
+      "sub": [
+        "アステロイド",
+        "ハウンド",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/144.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_30",
+    "name": "東春秋",
+    "group": "8番隊",
+    "position": "SN",
+    "normal_loadout": {
+      "main": [
+        "アイビス",
+        "イーグレット",
+        "シールド",
+        "ライトニング"
+      ],
+      "sub": [
+        "バッグワーム",
+        "ダミービーコン(試作)",
+        "シールド",
+        "FreeTrigger"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/79.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_31",
+    "name": "雨取千佳",
+    "group": "8番隊",
+    "position": "SN",
+    "normal_loadout": {
+      "main": [
+        "アイビス",
+        "ハウンド",
+        "シールド",
+        "ライトニング"
+      ],
+      "sub": [
+        "バッグワーム",
+        "FreeTrigger",
+        "シールド",
+        "鉛弾"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": 12,
+      "trion": 25,
+      "attack": 2,
+      "defense": 4,
+      "evasion": 3,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "secondary-summary",
+      "trion": "secondary-summary",
+      "attack": "secondary-summary",
+      "defense": "secondary-summary",
+      "evasion": "secondary-summary",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [
+      "戦闘経験不足",
+      "トリオン・極大",
+      "鉛弾狙撃",
+      "鉛弾追尾弾"
+    ],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/45.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": "C級訓練装備を除外しR5以降を採録。R7メテオラ使用あり、入替枠未確定。"
+  },
+  {
+    "id": "char_32",
+    "name": "絵馬ユズル",
+    "group": "8番隊",
+    "position": "SN",
+    "normal_loadout": {
+      "main": [
+        "アイビス",
+        "イーグレット",
+        "シールド",
+        "ライトニング"
+      ],
+      "sub": [
+        "バッグワーム",
+        "FreeTrigger",
+        "シールド",
+        "FreeTrigger"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/147.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_33",
+    "name": "水上敏志",
+    "group": "9番隊",
+    "position": "SH",
+    "normal_loadout": {
+      "main": [
+        "アステロイド",
+        "メテオラ",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "アステロイド",
+        "ハウンド",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": 14,
+      "trion": 5,
+      "attack": 6,
+      "defense": 5,
+      "evasion": null,
+      "support": null,
+      "technique": 7
+    },
+    "simulation_stats_status": {
+      "ap": "secondary-summary",
+      "trion": "secondary-summary",
+      "attack": "secondary-summary",
+      "defense": "secondary-summary",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "secondary-summary"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/301.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_34",
+    "name": "荒船哲次",
+    "group": "9番隊",
+    "position": "SN",
+    "normal_loadout": {
+      "main": [
+        "イーグレット",
+        "シールド",
+        "弧月",
+        "旋空"
+      ],
+      "sub": [
+        "バッグワーム",
+        "シールド",
+        "FreeTrigger",
+        "FreeTrigger"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": 15,
+      "trion": null,
+      "attack": 8,
+      "defense": 6,
+      "evasion": null,
+      "support": 8,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "secondary-summary",
+      "trion": "unconfirmed",
+      "attack": "secondary-summary",
+      "defense": "secondary-summary",
+      "evasion": "unconfirmed",
+      "support": "secondary-summary",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/82.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_35",
+    "name": "樫尾由多嘉",
+    "group": "9番隊",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "弧月",
+        "旋空",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "グラスホッパー",
+        "ハウンド",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": 17,
+      "trion": 5,
+      "attack": 6,
+      "defense": 7,
+      "evasion": 6,
+      "support": 7,
+      "technique": 7
+    },
+    "simulation_stats_status": {
+      "ap": "secondary-summary",
+      "trion": "secondary-summary",
+      "attack": "secondary-summary",
+      "defense": "secondary-summary",
+      "evasion": "secondary-summary",
+      "support": "secondary-summary",
+      "technique": "secondary-summary"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/310.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_36",
+    "name": "照屋文香",
+    "group": "9番隊",
+    "position": "AR",
+    "normal_loadout": {
+      "main": [
+        "弧月",
+        "旋空",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "アステロイド(突撃銃型)",
+        "ハウンド(突撃銃型)",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": 16,
+      "trion": 7,
+      "attack": 6,
+      "defense": 6,
+      "evasion": null,
+      "support": 7,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "secondary-summary",
+      "trion": "secondary-summary",
+      "attack": "secondary-summary",
+      "defense": "secondary-summary",
+      "evasion": "unconfirmed",
+      "support": "secondary-summary",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [
+      "射撃連携"
+    ],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/131.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_37",
+    "name": "村上鋼",
+    "group": "10番隊",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "弧月",
+        "旋空",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "レイガスト",
+        "スラスター",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/95.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_38",
+    "name": "堤大地",
+    "group": "10番隊",
+    "position": "GU",
+    "normal_loadout": {
+      "main": [
+        "アステロイド(散弾銃型)",
+        "FreeTrigger",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "アステロイド(散弾銃型)",
+        "スタアメーカー",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/107.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_39",
+    "name": "熊谷友子",
+    "group": "10番隊",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "弧月",
+        "旋空",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "FreeTrigger",
+        "メテオラ",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/137.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_40",
+    "name": "蔵内和紀",
+    "group": "10番隊",
+    "position": "SH",
+    "normal_loadout": {
+      "main": [
+        "ハウンド",
+        "アステロイド",
+        "シールド",
+        "メテオラ"
+      ],
+      "sub": [
+        "ハウンド",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [
+      "射撃連携"
+    ],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/309.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_41",
+    "name": "若村麓郎",
+    "group": "11番隊",
+    "position": "GU",
+    "normal_loadout": {
+      "main": [
+        "アステロイド(突撃銃型)",
+        "ハウンド(突撃銃型)",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "カメレオン",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/174.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_42",
+    "name": "半崎義人",
+    "group": "11番隊",
+    "position": "SN",
+    "normal_loadout": {
+      "main": [
+        "イーグレット",
+        "シールド",
+        "FreeTrigger",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "バッグワーム",
+        "シールド",
+        "FreeTrigger",
+        "FreeTrigger"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/127.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_43",
+    "name": "笹森日佐人",
+    "group": "11番隊",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "弧月",
+        "旋空",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "FreeTrigger",
+        "カメレオン",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/108.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_44",
+    "name": "ヒュース",
+    "group": "11番隊",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "弧月",
+        "旋空",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "バイパー",
+        "エスクード",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/58.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_45",
+    "name": "太刀川慶",
+    "group": "ヘルプ1",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "弧月",
+        "旋空",
+        "シールド",
+        "グラスホッパー"
+      ],
+      "sub": [
+        "弧月",
+        "旋空",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [
+      "近接連携"
+    ],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/33.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_46",
+    "name": "風間蒼也",
+    "group": "ヘルプ1",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "スコーピオン",
+        "FreeTrigger",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "スコーピオン",
+        "カメレオン",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [
+      "近接連携"
+    ],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/61.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_47",
+    "name": "当真勇",
+    "group": "ヘルプ1",
+    "position": "SN",
+    "normal_loadout": {
+      "main": [
+        "イーグレット",
+        "シールド",
+        "FreeTrigger",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "バッグワーム",
+        "シールド",
+        "FreeTrigger",
+        "FreeTrigger"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [
+      "急所狙い"
+    ],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/50.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_48",
+    "name": "出水公平",
+    "group": "ヘルプ1",
+    "position": "SH",
+    "normal_loadout": {
+      "main": [
+        "アステロイド",
+        "メテオラ",
+        "バッグワーム",
+        "シールド"
+      ],
+      "sub": [
+        "アステロイド",
+        "バイパー",
+        "ハウンド",
+        "シールド"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [
+      "射撃連携",
+      "トリオン・大",
+      "合成弾適正",
+      "変化弾適正"
+    ],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/34.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_49",
+    "name": "佐伯竜司",
+    "group": "ヘルプ2",
+    "position": "AR",
+    "normal_loadout": {
+      "main": [
+        "弧月",
+        "エスクード",
+        "シールド",
+        "旋空"
+      ],
+      "sub": [
+        "アステロイド(突撃銃型)",
+        "エスクード",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/264.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_50",
+    "name": "里見一馬",
+    "group": "ヘルプ2",
+    "position": "GU",
+    "normal_loadout": {
+      "main": [
+        "アステロイド(突撃銃型)",
+        "ハウンド(突撃銃型)",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "アステロイド(拳銃型)",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/297.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_51",
+    "name": "緑川駿",
+    "group": "ヘルプ2",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "スコーピオン",
+        "グラスホッパー",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "スコーピオン",
+        "グラスホッパー",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/55.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_52",
+    "name": "宇野隼人",
+    "group": "ヘルプ2",
+    "position": "SN",
+    "normal_loadout": {
+      "main": [
+        "ライトニング",
+        "イーグレット",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "バッグワーム",
+        "サイレンサー",
+        "シールド",
+        "FreeTrigger"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/298.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_53",
+    "name": "嵐山准",
+    "group": "ヘルプ2",
+    "position": "AR",
+    "normal_loadout": {
+      "main": [
+        "アステロイド(突撃銃型)",
+        "メテオラ(突撃銃型)",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "スコーピオン",
+        "テレポーター(試作)",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/80.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_54",
+    "name": "佐鳥賢",
+    "group": "ヘルプ2",
+    "position": "SN",
+    "normal_loadout": {
+      "main": [
+        "イーグレット",
+        "FreeTrigger",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "イーグレット",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/86.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_55",
+    "name": "時枝充",
+    "group": "ヘルプ2",
+    "position": "AR",
+    "normal_loadout": {
+      "main": [
+        "アステロイド(突撃銃型)",
+        "メテオラ(突撃銃型)",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "スコーピオン",
+        "テレポーター(試作)",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/85.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_56",
+    "name": "加古望",
+    "group": "ヘルプ3",
+    "position": "SH",
+    "normal_loadout": {
+      "main": [
+        "スコーピオン",
+        "タイマー(試作)",
+        "シールド",
+        "バッグワーム"
+      ],
+      "sub": [
+        "ハウンド(改)",
+        "アステロイド",
+        "シールド",
+        "テレポーター(試作)"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/119.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": "改造ハウンド・試作タイマーを通常品から区別。"
+  },
+  {
+    "id": "char_57",
+    "name": "黒江双葉",
+    "group": "ヘルプ3",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "弧月",
+        "魔光(試作)",
+        "シールド",
+        "旋空"
+      ],
+      "sub": [
+        "韋駄天(試作)",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [
+      "近接連携"
+    ],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/125.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_58",
+    "name": "三輪秀次",
+    "group": "ヘルプ3",
+    "position": "AR",
+    "normal_loadout": {
+      "main": [
+        "弧月",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ],
+      "sub": [
+        "アステロイド(拳銃型)",
+        "バイパー(拳銃型)",
+        "シールド",
+        "鉛弾(改)"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/116.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": "鉛弾(改)と通常鉛弾を区別。"
+  },
+  {
+    "id": "char_59",
+    "name": "米屋陽介",
+    "group": "ヘルプ3",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "弧月(改):槍",
+        "幻踊",
+        "シールド",
+        "旋空"
+      ],
+      "sub": [
+        "FreeTrigger",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/106.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": "槍型弧月を通常弧月と区別。"
+  },
+  {
+    "id": "char_60",
+    "name": "奈良坂透",
+    "group": "ヘルプ3",
+    "position": "SN",
+    "normal_loadout": {
+      "main": [
+        "イーグレット",
+        "アイビス",
+        "シールド",
+        "ライトニング"
+      ],
+      "sub": [
+        "バッグワーム",
+        "FreeTrigger",
+        "シールド",
+        "FreeTrigger"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/88.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_61",
+    "name": "片桐隆明",
+    "group": "ヘルプ3",
+    "position": "GU",
+    "normal_loadout": {
+      "main": [
+        "アステロイド(突撃銃型)",
+        "メテオラ(突撃銃型)",
+        "シールド",
+        "イーグレット"
+      ],
+      "sub": [
+        "バッグワーム",
+        "ダミービーコン(試作)",
+        "シールド",
+        "スパイダー"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/123.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_62",
+    "name": "一条雪丸",
+    "group": "ヘルプ3",
+    "position": "AT",
+    "normal_loadout": {
+      "main": [
+        "レイガスト",
+        "スラスター(改)",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "レイガスト",
+        "スラスター(改)",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/263.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": "改造スラスターの改造内容とシミュ効果は未確認。"
+  },
+  {
+    "id": "char_63",
+    "name": "桃園藤一郎",
+    "group": "ヘルプ3",
+    "position": "SN",
+    "normal_loadout": {
+      "main": [
+        "イーグレット",
+        "アイビス",
+        "シールド",
+        "FreeTrigger"
+      ],
+      "sub": [
+        "バッグワーム",
+        "FreeTrigger",
+        "シールド",
+        "FreeTrigger"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/299.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  },
+  {
+    "id": "char_64",
+    "name": "那須玲",
+    "group": "ヘルプ3",
+    "position": "SH",
+    "normal_loadout": {
+      "main": [
+        "バイパー",
+        "アステロイド",
+        "シールド",
+        "メテオラ"
+      ],
+      "sub": [
+        "バイパー",
+        "FreeTrigger",
+        "シールド",
+        "バッグワーム"
+      ]
+    },
+    "simulation_loadout": null,
+    "simulation_stats": {
+      "ap": null,
+      "trion": null,
+      "attack": null,
+      "defense": null,
+      "evasion": null,
+      "support": null,
+      "technique": null
+    },
+    "simulation_stats_status": {
+      "ap": "unconfirmed",
+      "trion": "unconfirmed",
+      "attack": "unconfirmed",
+      "defense": "unconfirmed",
+      "evasion": "unconfirmed",
+      "support": "unconfirmed",
+      "technique": "unconfirmed"
+    },
+    "known_simulation_skills": [],
+    "skills_complete": false,
+    "simulation_sprite_reference": null,
+    "sources": {
+      "character": "https://w.atwiki.jp/worldtrigger2ch/pages/140.html",
+      "equipment_index": "https://w.atwiki.jp/worldtrigger2ch/pages/423.html",
+      "simulation": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html"
+    },
+    "crosscheck": "family-count-match",
+    "notes": ""
+  }
+]

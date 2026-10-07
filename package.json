@@ -1,0 +1,49 @@
+{
+  "name": "closed-battle-sim",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12"
+  },
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "tsx tools/dev.ts",
+    "dev:web": "vite --host 127.0.0.1",
+    "dev:server": "tsx watch apps/server/src/main.ts",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint packages apps tools tests --max-warnings 0",
+    "test:engine": "vitest run tests/engine tests/content",
+    "test:server": "vitest run tests/server",
+    "test:e2e": "playwright test --grep-invert visual",
+    "test:visual": "playwright test --grep visual",
+    "test": "vitest run",
+    "build": "tsc --noEmit && vite build && esbuild apps/server/src/main.ts --bundle --platform=node --format=esm --external:ws --outfile=dist-server/main.mjs",
+    "start": "node dist-server/main.mjs",
+    "content:build": "tsx tools/build-content.ts"
+  },
+  "dependencies": {
+    "@noble/hashes": "1.8.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "ws": "8.22.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "10.0.1",
+    "@playwright/test": "1.63.0",
+    "@types/node": "22.20.5",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@types/ws": "8.18.2",
+    "esbuild": "0.28.2",
+    "eslint": "10.12.0",
+    "tsx": "4.23.15",
+    "typescript": "5.9.3",
+    "typescript-eslint": "8.71.1",
+    "vite": "7.3.7",
+    "vitest": "5.0.3"
+  }
+}

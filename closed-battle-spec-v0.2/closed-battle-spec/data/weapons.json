@@ -1,0 +1,1528 @@
+[
+  {
+    "id": "trigger_01",
+    "name": "アイビス",
+    "family": "アイビス",
+    "normal_owners": [
+      "別役太一",
+      "外岡一斗",
+      "古寺章平",
+      "東春秋",
+      "雨取千佳",
+      "絵馬ユズル",
+      "奈良坂透",
+      "桃園藤一郎"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/96.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/306.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/89.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/79.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/45.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/147.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/88.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/299.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_02",
+    "name": "アステロイド",
+    "family": "アステロイド",
+    "normal_owners": [
+      "歌川遼",
+      "帯島ユカリ",
+      "三雲修",
+      "二宮匡貴",
+      "水上敏志",
+      "蔵内和紀",
+      "出水公平",
+      "加古望",
+      "那須玲"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/73.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/305.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/37.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/144.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/301.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/309.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/34.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/119.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/140.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_03",
+    "name": "アステロイド(拳銃型)",
+    "family": "アステロイド",
+    "normal_owners": [
+      "巴虎太郎",
+      "弓場拓磨",
+      "木虎藍",
+      "香取葉子",
+      "里見一馬",
+      "三輪秀次"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/130.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/266.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/84.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/172.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/297.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/116.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_04",
+    "name": "アステロイド(散弾銃型)",
+    "family": "アステロイド",
+    "normal_owners": [
+      "諏訪洸太郎",
+      "堤大地"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/83.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/107.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_05",
+    "name": "アステロイド(突撃銃型)",
+    "family": "アステロイド",
+    "normal_owners": [
+      "漆間恒",
+      "柿崎国治",
+      "犬飼澄晴",
+      "北添尋",
+      "来馬辰也",
+      "照屋文香",
+      "若村麓郎",
+      "佐伯竜司",
+      "里見一馬",
+      "嵐山准",
+      "時枝充",
+      "片桐隆明"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/312.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/104.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/154.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/152.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/81.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/131.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/174.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/264.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/297.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/80.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/85.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/123.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_06",
+    "name": "イーグレット",
+    "family": "イーグレット",
+    "normal_owners": [
+      "別役太一",
+      "外岡一斗",
+      "穂刈篤",
+      "古寺章平",
+      "隠岐孝二",
+      "東春秋",
+      "絵馬ユズル",
+      "荒船哲次",
+      "半崎義人",
+      "当真勇",
+      "宇野隼人",
+      "佐鳥賢",
+      "奈良坂透",
+      "片桐隆明",
+      "桃園藤一郎"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/96.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/306.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/126.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/89.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/302.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/79.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/147.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/82.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/127.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/50.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/298.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/86.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/88.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/123.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/299.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_07",
+    "name": "エスクード",
+    "family": "エスクード",
+    "normal_owners": [
+      "ヒュース",
+      "佐伯竜司"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/58.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/264.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_08",
+    "name": "カメレオン",
+    "family": "カメレオン",
+    "normal_owners": [
+      "歌川遼",
+      "漆間恒",
+      "菊地原士郎",
+      "三浦雄太",
+      "若村麓郎",
+      "笹森日佐人",
+      "風間蒼也"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/73.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/312.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/76.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/173.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/174.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/108.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/61.html"
+    ],
+    "simulation_observation": "S3:自動攻撃対象への影響。連携追撃のみか通常攻撃もかは解釈を含む。",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [
+      "S3"
+    ],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_09",
+    "name": "グラスホッパー",
+    "family": "グラスホッパー",
+    "normal_owners": [
+      "空閑遊真",
+      "南沢海",
+      "小荒井登",
+      "奥寺常幸",
+      "隠岐孝二",
+      "香取葉子",
+      "樫尾由多嘉",
+      "太刀川慶",
+      "緑川駿"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/44.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/303.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/92.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/93.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/302.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/172.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/310.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/33.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/55.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_10",
+    "name": "サイレンサー",
+    "family": "サイレンサー",
+    "normal_owners": [
+      "漆間恒",
+      "来馬辰也",
+      "宇野隼人"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/312.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/81.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/298.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_11",
+    "name": "シールド",
+    "family": "シールド",
+    "normal_owners": [
+      "歌川遼",
+      "漆間恒",
+      "空閑遊真",
+      "巴虎太郎",
+      "王子一彰",
+      "辻新之助",
+      "生駒達人",
+      "帯島ユカリ",
+      "柿崎国治",
+      "影浦雅人",
+      "別役太一",
+      "犬飼澄晴",
+      "北添尋",
+      "外岡一斗",
+      "菊地原士郎",
+      "南沢海",
+      "来馬辰也",
+      "穂刈篤",
+      "小荒井登",
+      "弓場拓磨",
+      "古寺章平",
+      "奥寺常幸",
+      "三浦雄太",
+      "木虎藍",
+      "諏訪洸太郎",
+      "隠岐孝二",
+      "三雲修",
+      "香取葉子",
+      "二宮匡貴",
+      "東春秋",
+      "雨取千佳",
+      "絵馬ユズル",
+      "水上敏志",
+      "荒船哲次",
+      "樫尾由多嘉",
+      "照屋文香",
+      "村上鋼",
+      "堤大地",
+      "熊谷友子",
+      "蔵内和紀",
+      "若村麓郎",
+      "半崎義人",
+      "笹森日佐人",
+      "ヒュース",
+      "太刀川慶",
+      "風間蒼也",
+      "当真勇",
+      "出水公平",
+      "佐伯竜司",
+      "里見一馬",
+      "緑川駿",
+      "宇野隼人",
+      "嵐山准",
+      "佐鳥賢",
+      "時枝充",
+      "加古望",
+      "黒江双葉",
+      "三輪秀次",
+      "米屋陽介",
+      "奈良坂透",
+      "片桐隆明",
+      "一条雪丸",
+      "桃園藤一郎",
+      "那須玲"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/73.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/312.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/44.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/130.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/308.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/149.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/265.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/305.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/104.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/148.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/96.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/154.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/152.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/306.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/76.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/303.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/81.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/126.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/92.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/266.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/89.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/93.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/173.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/84.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/83.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/302.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/37.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/172.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/144.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/79.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/45.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/147.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/301.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/82.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/310.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/131.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/95.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/107.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/137.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/309.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/174.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/127.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/108.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/58.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/33.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/61.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/50.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/34.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/264.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/297.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/55.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/298.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/80.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/86.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/85.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/119.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/125.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/116.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/106.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/88.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/123.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/263.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/299.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/140.html"
+    ],
+    "simulation_observation": "S3:扇形内の防御。トリオン値を参照、完全式は未確認。",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [
+      "S3"
+    ],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_12",
+    "name": "スコーピオン",
+    "family": "スコーピオン",
+    "normal_owners": [
+      "歌川遼",
+      "空閑遊真",
+      "王子一彰",
+      "影浦雅人",
+      "犬飼澄晴",
+      "菊地原士郎",
+      "香取葉子",
+      "風間蒼也",
+      "緑川駿",
+      "嵐山准",
+      "時枝充",
+      "加古望"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/73.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/44.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/308.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/148.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/154.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/76.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/172.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/61.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/55.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/80.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/85.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/119.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_13",
+    "name": "スコーピオン(改)",
+    "family": "スコーピオン",
+    "normal_owners": [
+      "木虎藍"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/84.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_14",
+    "name": "スタアメーカー",
+    "family": "スタアメーカー",
+    "normal_owners": [
+      "諏訪洸太郎",
+      "堤大地"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/83.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/107.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_15",
+    "name": "スパイダー",
+    "family": "スパイダー",
+    "normal_owners": [
+      "三雲修",
+      "片桐隆明"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/37.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/123.html"
+    ],
+    "simulation_observation": "S3:ワイヤーセルに入る敵の移動APを追加1。設置AP・上限未確認。",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [
+      "S3"
+    ],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_16",
+    "name": "スパイダー(改):拳銃型",
+    "family": "スパイダー",
+    "normal_owners": [
+      "木虎藍"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/84.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_17",
+    "name": "スラスター",
+    "family": "スラスター",
+    "normal_owners": [
+      "三雲修",
+      "村上鋼"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/37.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/95.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_18",
+    "name": "スラスター(改)",
+    "family": "スラスター",
+    "normal_owners": [
+      "一条雪丸"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/263.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_19",
+    "name": "タイマー(試作)",
+    "family": "タイマー",
+    "normal_owners": [
+      "加古望"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/119.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_20",
+    "name": "ダミービーコン(試作)",
+    "family": "ダミービーコン",
+    "normal_owners": [
+      "漆間恒",
+      "巴虎太郎",
+      "東春秋",
+      "片桐隆明"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/312.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/130.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/79.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/123.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_21",
+    "name": "テレポーター(試作)",
+    "family": "テレポーター",
+    "normal_owners": [
+      "嵐山准",
+      "時枝充",
+      "加古望"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/80.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/85.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/119.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_22",
+    "name": "ハウンド",
+    "family": "ハウンド",
+    "normal_owners": [
+      "王子一彰",
+      "帯島ユカリ",
+      "犬飼澄晴",
+      "二宮匡貴",
+      "雨取千佳",
+      "水上敏志",
+      "樫尾由多嘉",
+      "蔵内和紀",
+      "出水公平"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/308.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/305.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/154.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/144.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/45.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/301.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/310.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/309.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/34.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_23",
+    "name": "ハウンド(拳銃型)",
+    "family": "ハウンド",
+    "normal_owners": [
+      "巴虎太郎",
+      "香取葉子"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/130.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/172.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_24",
+    "name": "ハウンド(改)",
+    "family": "ハウンド",
+    "normal_owners": [
+      "加古望"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/119.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_25",
+    "name": "ハウンド(突撃銃型)",
+    "family": "ハウンド",
+    "normal_owners": [
+      "犬飼澄晴",
+      "来馬辰也",
+      "照屋文香",
+      "若村麓郎",
+      "里見一馬"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/154.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/81.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/131.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/174.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/297.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_26",
+    "name": "バイパー",
+    "family": "バイパー",
+    "normal_owners": [
+      "ヒュース",
+      "出水公平",
+      "那須玲"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/58.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/34.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/140.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_27",
+    "name": "バイパー(拳銃型)",
+    "family": "バイパー",
+    "normal_owners": [
+      "弓場拓磨",
+      "三輪秀次"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/266.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/116.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_28",
+    "name": "バッグワーム",
+    "family": "バッグワーム",
+    "normal_owners": [
+      "歌川遼",
+      "漆間恒",
+      "空閑遊真",
+      "巴虎太郎",
+      "王子一彰",
+      "辻新之助",
+      "生駒達人",
+      "帯島ユカリ",
+      "柿崎国治",
+      "影浦雅人",
+      "別役太一",
+      "犬飼澄晴",
+      "北添尋",
+      "外岡一斗",
+      "菊地原士郎",
+      "南沢海",
+      "来馬辰也",
+      "穂刈篤",
+      "小荒井登",
+      "弓場拓磨",
+      "古寺章平",
+      "奥寺常幸",
+      "三浦雄太",
+      "木虎藍",
+      "諏訪洸太郎",
+      "隠岐孝二",
+      "三雲修",
+      "香取葉子",
+      "二宮匡貴",
+      "東春秋",
+      "雨取千佳",
+      "絵馬ユズル",
+      "水上敏志",
+      "荒船哲次",
+      "樫尾由多嘉",
+      "照屋文香",
+      "村上鋼",
+      "堤大地",
+      "熊谷友子",
+      "蔵内和紀",
+      "若村麓郎",
+      "半崎義人",
+      "笹森日佐人",
+      "ヒュース",
+      "太刀川慶",
+      "風間蒼也",
+      "当真勇",
+      "出水公平",
+      "佐伯竜司",
+      "里見一馬",
+      "緑川駿",
+      "宇野隼人",
+      "嵐山准",
+      "佐鳥賢",
+      "時枝充",
+      "加古望",
+      "黒江双葉",
+      "三輪秀次",
+      "米屋陽介",
+      "奈良坂透",
+      "片桐隆明",
+      "一条雪丸",
+      "桃園藤一郎",
+      "那須玲"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/73.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/312.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/44.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/130.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/308.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/149.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/265.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/305.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/104.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/148.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/96.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/154.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/152.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/306.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/76.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/303.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/81.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/126.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/92.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/266.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/89.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/93.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/173.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/84.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/83.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/302.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/37.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/172.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/144.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/79.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/45.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/147.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/301.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/82.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/310.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/131.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/95.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/107.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/137.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/309.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/174.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/127.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/108.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/58.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/33.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/61.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/50.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/34.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/264.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/297.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/55.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/298.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/80.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/86.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/85.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/119.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/125.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/116.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/106.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/88.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/123.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/263.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/299.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/140.html"
+    ],
+    "simulation_observation": "V2/S3:非防御装備にも回避扇形。レーダー非表示、維持AP未確認。",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [
+      "V2",
+      "S3"
+    ],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_29",
+    "name": "メテオラ",
+    "family": "メテオラ",
+    "normal_owners": [
+      "歌川遼",
+      "漆間恒",
+      "二宮匡貴",
+      "水上敏志",
+      "熊谷友子",
+      "蔵内和紀",
+      "出水公平",
+      "那須玲"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/73.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/312.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/144.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/301.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/137.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/309.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/34.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/140.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_30",
+    "name": "メテオラ(擲弾銃型)",
+    "family": "メテオラ",
+    "normal_owners": [
+      "北添尋"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/152.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_31",
+    "name": "メテオラ(突撃銃型)",
+    "family": "メテオラ",
+    "normal_owners": [
+      "柿崎国治",
+      "嵐山准",
+      "時枝充",
+      "片桐隆明"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/104.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/80.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/85.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/123.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_32",
+    "name": "ライトニング",
+    "family": "ライトニング",
+    "normal_owners": [
+      "別役太一",
+      "外岡一斗",
+      "古寺章平",
+      "隠岐孝二",
+      "東春秋",
+      "雨取千佳",
+      "絵馬ユズル",
+      "宇野隼人",
+      "奈良坂透"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/96.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/306.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/89.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/302.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/79.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/45.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/147.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/298.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/88.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_33",
+    "name": "レイガスト",
+    "family": "レイガスト",
+    "normal_owners": [
+      "三雲修",
+      "村上鋼",
+      "一条雪丸"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/37.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/95.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/263.html"
+    ],
+    "simulation_observation": "S3:防御へのトリオン影響が小さい。230話の両手装備はS13。",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [
+      "S3"
+    ],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_34",
+    "name": "幻踊",
+    "family": "幻踊",
+    "normal_owners": [
+      "三浦雄太",
+      "米屋陽介"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/173.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/106.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_35",
+    "name": "弧月",
+    "family": "弧月",
+    "normal_owners": [
+      "巴虎太郎",
+      "王子一彰",
+      "辻新之助",
+      "生駒達人",
+      "帯島ユカリ",
+      "柿崎国治",
+      "南沢海",
+      "小荒井登",
+      "奥寺常幸",
+      "三浦雄太",
+      "荒船哲次",
+      "樫尾由多嘉",
+      "照屋文香",
+      "村上鋼",
+      "熊谷友子",
+      "笹森日佐人",
+      "ヒュース",
+      "太刀川慶",
+      "佐伯竜司",
+      "黒江双葉",
+      "三輪秀次"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/130.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/308.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/149.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/265.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/305.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/104.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/303.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/92.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/93.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/173.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/82.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/310.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/131.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/95.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/137.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/108.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/58.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/33.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/264.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/125.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/116.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_36",
+    "name": "弧月(改):槍",
+    "family": "弧月",
+    "normal_owners": [
+      "米屋陽介"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/106.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_37",
+    "name": "旋空",
+    "family": "旋空",
+    "normal_owners": [
+      "王子一彰",
+      "辻新之助",
+      "生駒達人",
+      "帯島ユカリ",
+      "柿崎国治",
+      "南沢海",
+      "小荒井登",
+      "奥寺常幸",
+      "三浦雄太",
+      "荒船哲次",
+      "樫尾由多嘉",
+      "照屋文香",
+      "村上鋼",
+      "熊谷友子",
+      "笹森日佐人",
+      "ヒュース",
+      "太刀川慶",
+      "佐伯竜司",
+      "黒江双葉",
+      "米屋陽介"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/308.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/149.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/265.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/305.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/104.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/303.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/92.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/93.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/173.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/82.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/310.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/131.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/95.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/137.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/108.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/58.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/33.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/264.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/125.html",
+      "https://w.atwiki.jp/worldtrigger2ch/pages/106.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_38",
+    "name": "鉛弾",
+    "family": "鉛弾",
+    "normal_owners": [
+      "雨取千佳"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/45.html"
+    ],
+    "simulation_observation": "S3:雨取の狙撃・追尾弾スキルと組合せ。",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [
+      "S3"
+    ],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_39",
+    "name": "鉛弾(改)",
+    "family": "鉛弾",
+    "normal_owners": [
+      "三輪秀次"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/116.html"
+    ],
+    "simulation_observation": "S3:専用オプション扱い・1試合3回という二次記述。",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [
+      "S3"
+    ],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_40",
+    "name": "韋駄天(試作)",
+    "family": "韋駄天",
+    "normal_owners": [
+      "黒江双葉"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/125.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  },
+  {
+    "id": "trigger_41",
+    "name": "魔光(試作)",
+    "family": "魔光",
+    "normal_owners": [
+      "黒江双葉"
+    ],
+    "normal_sources": [
+      "https://w.atwiki.jp/worldtrigger2ch/pages/125.html"
+    ],
+    "simulation_observation": "シミュでの全数値・効果未照合",
+    "simulation_values": {
+      "ap": null,
+      "cooldown": null,
+      "power": null,
+      "hit_percent": null,
+      "range": null,
+      "sector_degrees": null
+    },
+    "simulation_values_status": "unconfirmed",
+    "source_ids": [],
+    "runtime_enabled": false
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "C1.0-sandbox",
+  "ruleVersion": "R1.3",
+  "mapVersion": "M1.2",
+  "geometryVersion": "G1-D1.1",
+  "calibrated": false,
+  "sourceHashes": {
+    "characters.json": "0821a6d3fa996eb8dd15e003cc8fd154306096f8bf1bc0af2a274b3436cf9d2f",
+    "weapons.json": "28c24cde7ad761b28951151e1a4928af05f48c3bd66d09b658d4007300282ed7",
+    "skills-index.json": "8d7109dbdce9e9c12bc5ef8b608dd9e06730cc98779f4724cdc066f0c4acfad8",
+    "teams.json": "47c9c39a5c0bbc922efc2121294e299270b1d4108169fd1f182e109524984998",
+    "help-pools.json": "c2cec9fc8dd8ae5f37f484e203daf469ca9a9f30b16556d089b523cc3c22a91a",
+    "range-observations.json": "c1de48016afc50317113e299b0686a64eb63470c3d7ec29a3b2877264ca430b7",
+    "weapon-row-observations.json": "8c7cf299b996be74a7173284f29cf3d995b083c08d3dc723124b00fcf81bbabf",
+    "maps/city-I.json": "6d0716027364e80319bafaa6311a018f490f65928a2f627b301aa48dd9d5134f",
+    "maps/M1.0/city-I.json": "3a7ee2020f4a818dca9bb5c6b71a3df4c60ed2ce8b1f115c2517a6ee44f2dabe",
+    "maps/city-II.json": "cbfc308122577195762f27890d00bd35b73374afc8de1d0b0fda38dce9703315",
+    "maps/M1.0/city-II.json": "7fa01c694d96bbbcfc47e74220118d7bd99056d325d444da4706ce0743c7ffeb",
+    "maps/city-III.json": "5f715cb4a0bb7861698cd128f08b050b98ff7c49b5c735820a9b55ab83b32f13",
+    "maps/M1.0/city-III.json": "518c3682885781eeb20a757f2fa212f115ddea48a484cc6493b30e5d3ea3a79d"
+  },
+  "counts": {
+    "characters": 64,
+    "normalEnabled": 0,
+    "supplementedEnabled": 64,
+    "trainingCore": 4,
+    "weapons": 41,
+    "weaponsEnabled": 41,
+    "effects": 55,
+    "effectsEnabled": 55
+  },
+  "ownershipComplete": false,
+  "sourcePriority": [
+    "simulation-observation",
+    "simulation-secondary",
+    "contemporary-rank",
+    "official-trigger",
+    "rank-secondary",
+    "original"
+  ],
+  "limitations": [
+    "C1 stats and modifiers are explicit original supplements, not official formulas",
+    "Normal ownership lists are incomplete: all normal presets disabled",
+    "Supplemented presets are restricted sandbox snapshots; see preset-restrictions.json",
+    "B1 not calibrated by U-D1/U-D2",
+    "M1.2 inherits functional provisional M1.1 placement; M10/M11 not established"
+  ],
+  "citations": [
+    {
+      "id": "S3",
+      "url": "https://w.atwiki.jp/worldtrigger2ch/pages/430.html",
+      "kind": "secondary-summary"
+    },
+    {
+      "id": "S-BBF-WIKI",
+      "url": "https://w.atwiki.jp/worldtrigger2ch/pages/383.html",
+      "kind": "secondary-summary",
+      "snapshot": "volume14"
+    },
+    {
+      "id": "S16",
+      "url": "https://worldtrigger.info/article/trigger.php",
+      "kind": "official-trigger-reference"
+    }
+  ]
+}
